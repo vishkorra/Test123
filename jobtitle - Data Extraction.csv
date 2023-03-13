@@ -1,0 +1,741 @@
+Job Title,City,CategoryId,Category_Name,State,Latitude,Longtitude,Zipcode
+driver,hyderabad,5d84de71e69ba158a235b8ae,Driver,Telangana,17.4267972,78.4524801,500082
+driver,mumbai,5d84de71e69ba158a235b8ae,Driver,Maharastra,18.9385352,72.836334,400001
+driver,chennai,5d84de71e69ba158a235b8ae,Driver,Tamilnadu,13.0963045,80.2865916,600001
+driver,bengaluru,5d84de71e69ba158a235b8ae,Driver,Karnataka,12.8787333,77.6297814,530068
+driver,pune,5d84de71e69ba158a235b8ae,Driver,Maharastra,18.5587833,73.7770411,111045
+driver,delhi,5d84de71e69ba158a235b8ae,Driver,Delhi,28.6327426,77.2195969,110001
+driver,noida,5d84de71e69ba158a235b8ae,Driver,Uttar Pradesh,28.5821195,77.3266991,201301
+driver,kolkata,5d84de71e69ba158a235b8ae,Driver,West Bengal,22.5736132,88.3483409,700001
+driver,vijaywada,5d84de71e69ba158a235b8ae,Driver,Andhra Pradesh,16.5380465,80.6132646,520001
+driver,vishakapatnam,5d84de71e69ba158a235b8ae,Driver,Andhra Pradesh,17.7188461,83.3075167,500020
+developer,hyderabad,5d84e0a767fa4e589c9b3891,Software by Web developer,Telangana,17.4267972,78.4524801,500082
+developer,mumbai,5d84e0a767fa4e589c9b3891,Software by Web developer,Maharastra,18.9385352,72.836334,400001
+developer,chennai,5d84e0a767fa4e589c9b3891,Software by Web developer,Tamilnadu,13.0963045,80.2865916,600001
+developer,bengaluru,5d84e0a767fa4e589c9b3891,Software by Web developer,Karnataka,12.8787333,77.6297814,530068
+developer,pune,5d84e0a767fa4e589c9b3891,Software by Web developer,Maharastra,18.5587833,73.7770411,111045
+developer,delhi,5d84e0a767fa4e589c9b3891,Software by Web developer,Delhi,28.6327426,77.2195969,110001
+developer,noida,5d84e0a767fa4e589c9b3891,Software by Web developer,Uttar Pradesh,28.5821195,77.3266991,201301
+developer,kolkata,5d84e0a767fa4e589c9b3891,Software by Web developer,West Bengal,22.5736132,88.3483409,700001
+developer,vijaywada,5d84e0a767fa4e589c9b3891,Software by Web developer,Andhra Padesh,16.5380465,80.6132646,520001
+developer,vishakapatnam,5d84e0a767fa4e589c9b3891,Software by Web developer,Andhra Pradesh,17.7188461,83.3075167,500020
+back Office Executive,hyderabad,5d84dd8ce69ba158a235b891,Others,Telangana,17.4267972,78.4524801,500082
+back Office Executive,adilabad,5d84dd8ce69ba158a235b891,Others,Telangana,19.6640624,78.5320107,504001
+back Office Executive,warangal,5d84dd8ce69ba158a235b891,Others,Telangana,17.9750561,79.5996716,506002
+back Office Executive,karimnagar,5d84dd8ce69ba158a235b891,Others,Telangana,18.4385553,79.1288412,505001
+back Office Executive,nizamabad,5d84dd8ce69ba158a235b891,Others,Telangana,18.6693532,78.0823084,503001
+back Office Executive,kamareddy,5d84dd8ce69ba158a235b891,Others,Telangana,18.3204832,78.3369523,503111
+back Office Executive,mahabubnagar,5d84dd8ce69ba158a235b891,Others,Telangana,16.7488379,78.0035172,509001
+back Office Executive,nalgonda,5d84dd8ce69ba158a235b891,Others,Telangana,17.0839983,79.2112769,508001
+back Office Executive,khammam,5d84dd8ce69ba158a235b891,Others,Telangana,17.382593,80.7436141,507316
+back Office Executive,wanaparthy,5d84dd8ce69ba158a235b891,Others,Telangana,16.3623118,78.0621824,509103
+back Office Executive,suryapet,5d84dd8ce69ba158a235b891,Others,Telangana,17.1313756,79.6336242,508213
+back Office Executive,siddipet,5d84dd8ce69ba158a235b891,Others,Telangana,18.1017996,78.8519601,502103
+telecaller,hyderabad,5d84de07e69ba158a235b89c,Delivery,Telangana,17.4267972,78.4524801,500082
+telecaller,adilabad,5d84de07e69ba158a235b89c,Delivery,Telangana,19.6640624,78.5320107,504001
+telecaller,warangal,5d84de07e69ba158a235b89c,Delivery,Telangana,17.9750561,79.5996716,506002
+telecaller,karimnagar,5d84de07e69ba158a235b89c,Delivery,Telangana,18.4385553,79.1288412,505001
+telecaller,nizamabad,5d84de07e69ba158a235b89c,Delivery,Telangana,18.6693532,78.0823084,503001
+telecaller,kamareddy,5d84de07e69ba158a235b89c,Delivery,Telangana,18.3204832,78.3369523,503111
+telecaller,mahabubnagar,5d84de07e69ba158a235b89c,Delivery,Telangana,16.7488379,78.0035172,509001
+telecaller,nalgonda,5d84de07e69ba158a235b89c,Delivery,Telangana,17.0839983,79.2112769,508001
+telecaller,khammam,5d84de07e69ba158a235b89c,Delivery,Telangana,17.382593,80.7436141,507316
+telecaller,wanaparthy,5d84de07e69ba158a235b89c,Delivery,Telangana,16.3623118,78.0621824,509103
+telecaller,suryapet,5d84de07e69ba158a235b89c,Delivery,Telangana,17.1313756,79.6336242,508213
+telecaller,siddipet,5d84de07e69ba158a235b89c,Delivery,Telangana,18.1017996,78.8519601,502103
+accountant,hyderabad,5d84ddc567fa4e589c9b3860,Others,Telangana,17.4267972,78.4524801,500082
+accountant,adilabad,5d84ddc567fa4e589c9b3860,Others,Telangana,19.6640624,78.5320107,504001
+accountant,warangal,5d84ddc567fa4e589c9b3860,Others,Telangana,17.9750561,79.5996716,506002
+accountant,karimnagar,5d84ddc567fa4e589c9b3860,Others,Telangana,18.4385553,79.1288412,505001
+accountant,nizamabad,5d84ddc567fa4e589c9b3860,Others,Telangana,18.6693532,78.0823084,503001
+accountant,kamareddy,5d84ddc567fa4e589c9b3860,Others,Telangana,18.3204832,78.3369523,503111
+accountant,mahabubnagar,5d84ddc567fa4e589c9b3860,Others,Telangana,16.7488379,78.0035172,509001
+accountant,nalgonda,5d84ddc567fa4e589c9b3860,Others,Telangana,17.0839983,79.2112769,508001
+accountant,khammam,5d84ddc567fa4e589c9b3860,Others,Telangana,17.382593,80.7436141,507316
+accountant,wanaparthy,5d84ddc567fa4e589c9b3860,Others,Telangana,16.3623118,78.0621824,509103
+accountant,suryapet,5d84ddc567fa4e589c9b3860,Others,Telangana,17.1313756,79.6336242,508213
+accountant,siddipet,5d84ddc567fa4e589c9b3860,Others,Telangana,18.1017996,78.8519601,502103
+security guard,hyderabad,5d84e02d67fa4e589c9b388a,Ward Boy,Telangana,17.4267972,78.4524801,500082
+security guard,adilabad,5d84e02d67fa4e589c9b388a,Ward Boy,Telangana,19.6640624,78.5320107,504001
+security guard,warangal,5d84e02d67fa4e589c9b388a,Ward Boy,Telangana,17.9750561,79.5996716,506002
+security guard,karimnagar,5d84e02d67fa4e589c9b388a,Ward Boy,Telangana,18.4385553,79.1288412,505001
+security guard,nizamabad,5d84e02d67fa4e589c9b388a,Ward Boy,Telangana,18.6693532,78.0823084,503001
+security guard,kamareddy,5d84e02d67fa4e589c9b388a,Ward Boy,Telangana,18.3204832,78.3369523,503111
+security guard,mahabubnagar,5d84e02d67fa4e589c9b388a,Ward Boy,Telangana,16.7488379,78.0035172,509001
+security guard,nalgonda,5d84e02d67fa4e589c9b388a,Ward Boy,Telangana,17.0839983,79.2112769,508001
+security guard,khammam,5d84e02d67fa4e589c9b388a,Ward Boy,Telangana,17.382593,80.7436141,507316
+security guard,wanaparthy,5d84e02d67fa4e589c9b388a,Ward Boy,Telangana,16.3623118,78.0621824,509103
+security guard,suryapet,5d84e02d67fa4e589c9b388a,Ward Boy,Telangana,17.1313756,79.6336242,508213
+security guard,siddipet,5d84e02d67fa4e589c9b388a,Ward Boy,Telangana,18.1017996,78.8519601,502103
+field sales executive,hyderabad,5d84de1de69ba158a235b89e,Delivery,Telangana,17.4267972,78.4524801,500082
+field sales executive,adilabad,5d84de1de69ba158a235b89e,Delivery,Telangana,19.6640624,78.5320107,504001
+field sales executive,warangal,5d84de1de69ba158a235b89e,Delivery,Telangana,17.9750561,79.5996716,506002
+field sales executive,karimnagar,5d84de1de69ba158a235b89e,Delivery,Telangana,18.4385553,79.1288412,505001
+field sales executive,nizamabad,5d84de1de69ba158a235b89e,Delivery,Telangana,18.6693532,78.0823084,503001
+field sales executive,kamareddy,5d84de1de69ba158a235b89e,Delivery,Telangana,18.3204832,78.3369523,503111
+field sales executive,mahabubnagar,5d84de1de69ba158a235b89e,Delivery,Telangana,16.7488379,78.0035172,509001
+field sales executive,nalgonda,5d84de1de69ba158a235b89e,Delivery,Telangana,17.0839983,79.2112769,508001
+field sales executive,khammam,5d84de1de69ba158a235b89e,Delivery,Telangana,17.382593,80.7436141,507316
+field sales executive,wanaparthy,5d84de1de69ba158a235b89e,Delivery,Telangana,16.3623118,78.0621824,509103
+field sales executive,suryapet,5d84de1de69ba158a235b89e,Delivery,Telangana,17.1313756,79.6336242,508213
+field sales executive,siddipet,5d84de1de69ba158a235b89e,Delivery,Telangana,18.1017996,78.8519601,502103
+teacher,hyderabad,5d84df9167fa4e589c9b387f,Cook,Telangana,17.4267972,78.4524801,500082
+teacher,adilabad,5d84df9167fa4e589c9b387f,Cook,Telangana,19.6640624,78.5320107,504001
+teacher,warangal,5d84df9167fa4e589c9b387f,Cook,Telangana,17.9750561,79.5996716,506002
+teacher,karimnagar,5d84df9167fa4e589c9b387f,Cook,Telangana,18.4385553,79.1288412,505001
+teacher,nizamabad,5d84df9167fa4e589c9b387f,Cook,Telangana,18.6693532,78.0823084,503001
+teacher,kamareddy,5d84df9167fa4e589c9b387f,Cook,Telangana,18.3204832,78.3369523,503111
+teacher,mahabubnagar,5d84df9167fa4e589c9b387f,Cook,Telangana,16.7488379,78.0035172,509001
+teacher,nalgonda,5d84df9167fa4e589c9b387f,Cook,Telangana,17.0839983,79.2112769,508001
+teacher,khammam,5d84df9167fa4e589c9b387f,Cook,Telangana,17.382593,80.7436141,507316
+teacher,wanaparthy,5d84df9167fa4e589c9b387f,Cook,Telangana,16.3623118,78.0621824,509103
+teacher,suryapet,5d84df9167fa4e589c9b387f,Cook,Telangana,17.1313756,79.6336242,508213
+teacher,siddipet,5d84df9167fa4e589c9b387f,Cook,Telangana,18.1017996,78.8519601,502103
+marketing executive,hyderabad,5d84de5fe69ba158a235b8a9,Delivery,Telangana,17.4267972,78.4524801,500082
+marketing executive,adilabad,5d84de5fe69ba158a235b8a9,Delivery,Telangana,19.6640624,78.5320107,504001
+marketing executive,warangal,5d84de5fe69ba158a235b8a9,Delivery,Telangana,17.9750561,79.5996716,506002
+marketing executive,karimnagar,5d84de5fe69ba158a235b8a9,Delivery,Telangana,18.4385553,79.1288412,505001
+marketing executive,nizamabad,5d84de5fe69ba158a235b8a9,Delivery,Telangana,18.6693532,78.0823084,503001
+marketing executive,kamareddy,5d84de5fe69ba158a235b8a9,Delivery,Telangana,18.3204832,78.3369523,503111
+marketing executive,mahabubnagar,5d84de5fe69ba158a235b8a9,Delivery,Telangana,16.7488379,78.0035172,509001
+marketing executive,nalgonda,5d84de5fe69ba158a235b8a9,Delivery,Telangana,17.0839983,79.2112769,508001
+marketing executive,khammam,5d84de5fe69ba158a235b8a9,Delivery,Telangana,17.382593,80.7436141,507316
+marketing executive,wanaparthy,5d84de5fe69ba158a235b8a9,Delivery,Telangana,16.3623118,78.0621824,509103
+marketing executive,suryapet,5d84de5fe69ba158a235b8a9,Delivery,Telangana,17.1313756,79.6336242,508213
+marketing executive,siddipet,5d84de5fe69ba158a235b8a9,Delivery,Telangana,18.1017996,78.8519601,502103
+office assistant,hyderabad,5d84dd8ce69ba158a235b891,Others,Telangana,17.4267972,78.4524801,500082
+office assistant,adilabad,5d84dd8ce69ba158a235b891,Others,Telangana,19.6640624,78.5320107,504001
+office assistant,warangal,5d84dd8ce69ba158a235b891,Others,Telangana,17.9750561,79.5996716,506002
+office assistant,karimnagar,5d84dd8ce69ba158a235b891,Others,Telangana,18.4385553,79.1288412,505001
+office assistant,nizamabad,5d84dd8ce69ba158a235b891,Others,Telangana,18.6693532,78.0823084,503001
+office assistant,kamareddy,5d84dd8ce69ba158a235b891,Others,Telangana,18.3204832,78.3369523,503111
+office assistant,mahabubnagar,5d84dd8ce69ba158a235b891,Others,Telangana,16.7488379,78.0035172,509001
+office assistant,nalgonda,5d84dd8ce69ba158a235b891,Others,Telangana,17.0839983,79.2112769,508001
+office assistant,khammam,5d84dd8ce69ba158a235b891,Others,Telangana,17.382593,80.7436141,507316
+office assistant,wanaparthy,5d84dd8ce69ba158a235b891,Others,Telangana,16.3623118,78.0621824,509103
+office assistant,suryapet,5d84dd8ce69ba158a235b891,Others,Telangana,17.1313756,79.6336242,508213
+office assistant,siddipet,5d84dd8ce69ba158a235b891,Others,Telangana,18.1017996,78.8519601,502103
+data entry operator,hyderabad,5d84e1c6e69ba158a235b908,Photographer,Telangana,17.4267972,78.4524801,500082
+data entry operator,adilabad,5d84e1c6e69ba158a235b908,Photographer,Telangana,19.6640624,78.5320107,504001
+data entry operator,warangal,5d84e1c6e69ba158a235b908,Photographer,Telangana,17.9750561,79.5996716,506002
+data entry operator,karimnagar,5d84e1c6e69ba158a235b908,Photographer,Telangana,18.4385553,79.1288412,505001
+data entry operator,nizamabad,5d84e1c6e69ba158a235b908,Photographer,Telangana,18.6693532,78.0823084,503001
+data entry operator,kamareddy,5d84e1c6e69ba158a235b908,Photographer,Telangana,18.3204832,78.3369523,503111
+data entry operator,mahabubnagar,5d84e1c6e69ba158a235b908,Photographer,Telangana,16.7488379,78.0035172,509001
+data entry operator,nalgonda,5d84e1c6e69ba158a235b908,Photographer,Telangana,17.0839983,79.2112769,508001
+data entry operator,khammam,5d84e1c6e69ba158a235b908,Photographer,Telangana,17.382593,80.7436141,507316
+data entry operator,wanaparthy,5d84e1c6e69ba158a235b908,Photographer,Telangana,16.3623118,78.0621824,509103
+data entry operator,suryapet,5d84e1c6e69ba158a235b908,Photographer,Telangana,17.1313756,79.6336242,508213
+data entry operator,siddipet,5d84e1c6e69ba158a235b908,Photographer,Telangana,18.1017996,78.8519601,502103
+office boy,hyderabad,5d84dda867fa4e589c9b385e,Others,Telangana,17.4267972,78.4524801,500082
+office boy,adilabad,5d84dda867fa4e589c9b385e,Others,Telangana,19.6640624,78.5320107,504001
+office boy,warangal,5d84dda867fa4e589c9b385e,Others,Telangana,17.9750561,79.5996716,506002
+office boy,karimnagar,5d84dda867fa4e589c9b385e,Others,Telangana,18.4385553,79.1288412,505001
+office boy,nizamabad,5d84dda867fa4e589c9b385e,Others,Telangana,18.6693532,78.0823084,503001
+office boy,kamareddy,5d84dda867fa4e589c9b385e,Others,Telangana,18.3204832,78.3369523,503111
+office boy,mahabubnagar,5d84dda867fa4e589c9b385e,Others,Telangana,16.7488379,78.0035172,509001
+office boy,nalgonda,5d84dda867fa4e589c9b385e,Others,Telangana,17.0839983,79.2112769,508001
+office boy,khammam,5d84dda867fa4e589c9b385e,Others,Telangana,17.382593,80.7436141,507316
+office boy,wanaparthy,5d84dda867fa4e589c9b385e,Others,Telangana,16.3623118,78.0621824,509103
+office boy,suryapet,5d84dda867fa4e589c9b385e,Others,Telangana,17.1313756,79.6336242,508213
+office boy,siddipet,5d84dda867fa4e589c9b385e,Others,Telangana,18.1017996,78.8519601,502103
+clerk,hyderabad,5d84dda867fa4e589c9b385e,Others,Telangana,17.4267972,78.4524801,500082
+clerk,adilabad,5d84dda867fa4e589c9b385e,Others,Telangana,19.6640624,78.5320107,504001
+clerk,warangal,5d84dda867fa4e589c9b385e,Others,Telangana,17.9750561,79.5996716,506002
+clerk,karimnagar,5d84dda867fa4e589c9b385e,Others,Telangana,18.4385553,79.1288412,505001
+clerk,nizamabad,5d84dda867fa4e589c9b385e,Others,Telangana,18.6693532,78.0823084,503001
+clerk,kamareddy,5d84dda867fa4e589c9b385e,Others,Telangana,18.3204832,78.3369523,503111
+clerk,mahabubnagar,5d84dda867fa4e589c9b385e,Others,Telangana,16.7488379,78.0035172,509001
+clerk,nalgonda,5d84dda867fa4e589c9b385e,Others,Telangana,17.0839983,79.2112769,508001
+clerk,khammam,5d84dda867fa4e589c9b385e,Others,Telangana,17.382593,80.7436141,507316
+clerk,wanaparthy,5d84dda867fa4e589c9b385e,Others,Telangana,16.3623118,78.0621824,509103
+clerk,suryapet,5d84dda867fa4e589c9b385e,Others,Telangana,17.1313756,79.6336242,508213
+clerk,siddipet,5d84dda867fa4e589c9b385e,Others,Telangana,18.1017996,78.8519601,502103
+sales executive,hyderabad,5d84ddb667fa4e589c9b385f,Others,Telangana,17.4267972,78.4524801,500082
+sales executive,adilabad,5d84ddb667fa4e589c9b385f,Others,Telangana,19.6640624,78.5320107,504001
+sales executive,warangal,5d84ddb667fa4e589c9b385f,Others,Telangana,17.9750561,79.5996716,506002
+sales executive,karimnagar,5d84ddb667fa4e589c9b385f,Others,Telangana,18.4385553,79.1288412,505001
+sales executive,nizamabad,5d84ddb667fa4e589c9b385f,Others,Telangana,18.6693532,78.0823084,503001
+sales executive,kamareddy,5d84ddb667fa4e589c9b385f,Others,Telangana,18.3204832,78.3369523,503111
+sales executive,mahabubnagar,5d84ddb667fa4e589c9b385f,Others,Telangana,16.7488379,78.0035172,509001
+sales executive,nalgonda,5d84ddb667fa4e589c9b385f,Others,Telangana,17.0839983,79.2112769,508001
+sales executive,khammam,5d84ddb667fa4e589c9b385f,Others,Telangana,17.382593,80.7436141,507316
+sales executive,wanaparthy,5d84ddb667fa4e589c9b385f,Others,Telangana,16.3623118,78.0621824,509103
+sales executive,suryapet,5d84ddb667fa4e589c9b385f,Others,Telangana,17.1313756,79.6336242,508213
+sales executive,siddipet,5d84ddb667fa4e589c9b385f,Others,Telangana,18.1017996,78.8519601,502103
+receptionist,hyderabad,5d84dde4e69ba158a235b897,Receptionist,Telangana,17.4267972,78.4524801,500082
+receptionist,adilabad,5d84dde4e69ba158a235b897,Receptionist,Telangana,19.6640624,78.5320107,504001
+receptionist,warangal,5d84dde4e69ba158a235b897,Receptionist,Telangana,17.9750561,79.5996716,506002
+receptionist,karimnagar,5d84dde4e69ba158a235b897,Receptionist,Telangana,18.4385553,79.1288412,505001
+receptionist,nizamabad,5d84dde4e69ba158a235b897,Receptionist,Telangana,18.6693532,78.0823084,503001
+receptionist,kamareddy,5d84dde4e69ba158a235b897,Receptionist,Telangana,18.3204832,78.3369523,503111
+receptionist,mahabubnagar,5d84dde4e69ba158a235b897,Receptionist,Telangana,16.7488379,78.0035172,509001
+receptionist,nalgonda,5d84dde4e69ba158a235b897,Receptionist,Telangana,17.0839983,79.2112769,508001
+receptionist,khammam,5d84dde4e69ba158a235b897,Receptionist,Telangana,17.382593,80.7436141,507316
+receptionist,wanaparthy,5d84dde4e69ba158a235b897,Receptionist,Telangana,16.3623118,78.0621824,509103
+receptionist,suryapet,5d84dde4e69ba158a235b897,Receptionist,Telangana,17.1313756,79.6336242,508213
+receptionist,siddipet,5d84dde4e69ba158a235b897,Receptionist,Telangana,18.1017996,78.8519601,502103
+computer operator,hyderabad,5d84e1c6e69ba158a235b908,Photographer,Telangana,17.4267972,78.4524801,500082
+computer operator,adilabad,5d84e1c6e69ba158a235b908,Photographer,Telangana,19.6640624,78.5320107,504001
+computer operator,warangal,5d84e1c6e69ba158a235b908,Photographer,Telangana,17.9750561,79.5996716,506002
+computer operator,karimnagar,5d84e1c6e69ba158a235b908,Photographer,Telangana,18.4385553,79.1288412,505001
+computer operator,nizamabad,5d84e1c6e69ba158a235b908,Photographer,Telangana,18.6693532,78.0823084,503001
+computer operator,kamareddy,5d84e1c6e69ba158a235b908,Photographer,Telangana,18.3204832,78.3369523,503111
+computer operator,mahabubnagar,5d84e1c6e69ba158a235b908,Photographer,Telangana,16.7488379,78.0035172,509001
+computer operator,nalgonda,5d84e1c6e69ba158a235b908,Photographer,Telangana,17.0839983,79.2112769,508001
+computer operator,khammam,5d84e1c6e69ba158a235b908,Photographer,Telangana,17.382593,80.7436141,507316
+computer operator,wanaparthy,5d84e1c6e69ba158a235b908,Photographer,Telangana,16.3623118,78.0621824,509103
+computer operator,suryapet,5d84e1c6e69ba158a235b908,Photographer,Telangana,17.1313756,79.6336242,508213
+computer operator,siddipet,5d84e1c6e69ba158a235b908,Photographer,Telangana,18.1017996,78.8519601,502103
+housekeeping,hyderabad,5d84dedfe69ba158a235b8b4,Housekeeping,Telangana,17.4267972,78.4524801,500082
+housekeeping,adilabad,5d84dedfe69ba158a235b8b4,Housekeeping,Telangana,19.6640624,78.5320107,504001
+housekeeping,warangal,5d84dedfe69ba158a235b8b4,Housekeeping,Telangana,17.9750561,79.5996716,506002
+housekeeping,karimnagar,5d84dedfe69ba158a235b8b4,Housekeeping,Telangana,18.4385553,79.1288412,505001
+housekeeping,nizamabad,5d84dedfe69ba158a235b8b4,Housekeeping,Telangana,18.6693532,78.0823084,503001
+housekeeping,kamareddy,5d84dedfe69ba158a235b8b4,Housekeeping,Telangana,18.3204832,78.3369523,503111
+housekeeping,mahabubnagar,5d84dedfe69ba158a235b8b4,Housekeeping,Telangana,16.7488379,78.0035172,509001
+housekeeping,nalgonda,5d84dedfe69ba158a235b8b4,Housekeeping,Telangana,17.0839983,79.2112769,508001
+housekeeping,khammam,5d84dedfe69ba158a235b8b4,Housekeeping,Telangana,17.382593,80.7436141,507316
+housekeeping,wanaparthy,5d84dedfe69ba158a235b8b4,Housekeeping,Telangana,16.3623118,78.0621824,509103
+housekeeping,suryapet,5d84dedfe69ba158a235b8b4,Housekeeping,Telangana,17.1313756,79.6336242,508213
+housekeeping,siddipet,5d84dedfe69ba158a235b8b4,Housekeeping,Telangana,18.1017996,78.8519601,502103
+graphic designer,hyderabad,5d84df1267fa4e589c9b3874,DTP / Graphic designer,Telangana,17.4267972,78.4524801,500082
+graphic designer,adilabad,5d84df1267fa4e589c9b3874,DTP / Graphic designer,Telangana,19.6640624,78.5320107,504001
+graphic designer,warangal,5d84df1267fa4e589c9b3874,DTP / Graphic designer,Telangana,17.9750561,79.5996716,506002
+graphic designer,karimnagar,5d84df1267fa4e589c9b3874,DTP / Graphic designer,Telangana,18.4385553,79.1288412,505001
+graphic designer,nizamabad,5d84df1267fa4e589c9b3874,DTP / Graphic designer,Telangana,18.6693532,78.0823084,503001
+graphic designer,kamareddy,5d84df1267fa4e589c9b3874,DTP / Graphic designer,Telangana,18.3204832,78.3369523,503111
+graphic designer,mahabubnagar,5d84df1267fa4e589c9b3874,DTP / Graphic designer,Telangana,16.7488379,78.0035172,509001
+graphic designer,nalgonda,5d84df1267fa4e589c9b3874,DTP / Graphic designer,Telangana,17.0839983,79.2112769,508001
+graphic designer,khammam,5d84df1267fa4e589c9b3874,DTP / Graphic designer,Telangana,17.382593,80.7436141,507316
+graphic designer,wanaparthy,5d84df1267fa4e589c9b3874,DTP / Graphic designer,Telangana,16.3623118,78.0621824,509103
+graphic designer,suryapet,5d84df1267fa4e589c9b3874,DTP / Graphic designer,Telangana,17.1313756,79.6336242,508213
+graphic designer,siddipet,5d84df1267fa4e589c9b3874,DTP / Graphic designer,Telangana,18.1017996,78.8519601,502103
+dtp operator,hyderabad,5d84df1267fa4e589c9b3874,DTP / Graphic designer,Telangana,17.4267972,78.4524801,500082
+dtp operator,adilabad,5d84df1267fa4e589c9b3874,DTP / Graphic designer,Telangana,19.6640624,78.5320107,504001
+dtp operator,warangal,5d84df1267fa4e589c9b3874,DTP / Graphic designer,Telangana,17.9750561,79.5996716,506002
+dtp operator,karimnagar,5d84df1267fa4e589c9b3874,DTP / Graphic designer,Telangana,18.4385553,79.1288412,505001
+dtp operator,nizamabad,5d84df1267fa4e589c9b3874,DTP / Graphic designer,Telangana,18.6693532,78.0823084,503001
+dtp operator,kamareddy,5d84df1267fa4e589c9b3874,DTP / Graphic designer,Telangana,18.3204832,78.3369523,503111
+dtp operator,mahabubnagar,5d84df1267fa4e589c9b3874,DTP / Graphic designer,Telangana,16.7488379,78.0035172,509001
+dtp operator,nalgonda,5d84df1267fa4e589c9b3874,DTP / Graphic designer,Telangana,17.0839983,79.2112769,508001
+dtp operator,khammam,5d84df1267fa4e589c9b3874,DTP / Graphic designer,Telangana,17.382593,80.7436141,507316
+dtp operator,wanaparthy,5d84df1267fa4e589c9b3874,DTP / Graphic designer,Telangana,16.3623118,78.0621824,509103
+dtp operator,suryapet,5d84df1267fa4e589c9b3874,DTP / Graphic designer,Telangana,17.1313756,79.6336242,508213
+dtp operator,siddipet,5d84df1267fa4e589c9b3874,DTP / Graphic designer,Telangana,18.1017996,78.8519601,502103
+technician,hyderabad,5d84df5fe69ba158a235b8bd,Technician by ITI,Telangana,17.4267972,78.4524801,500082
+technician,adilabad,5d84df5fe69ba158a235b8bd,Technician by ITI,Telangana,19.6640624,78.5320107,504001
+technician,warangal,5d84df5fe69ba158a235b8bd,Technician by ITI,Telangana,17.9750561,79.5996716,506002
+technician,karimnagar,5d84df5fe69ba158a235b8bd,Technician by ITI,Telangana,18.4385553,79.1288412,505001
+technician,nizamabad,5d84df5fe69ba158a235b8bd,Technician by ITI,Telangana,18.6693532,78.0823084,503001
+technician,kamareddy,5d84df5fe69ba158a235b8bd,Technician by ITI,Telangana,18.3204832,78.3369523,503111
+technician,mahabubnagar,5d84df5fe69ba158a235b8bd,Technician by ITI,Telangana,16.7488379,78.0035172,509001
+technician,nalgonda,5d84df5fe69ba158a235b8bd,Technician by ITI,Telangana,17.0839983,79.2112769,508001
+technician,khammam,5d84df5fe69ba158a235b8bd,Technician by ITI,Telangana,17.382593,80.7436141,507316
+technician,wanaparthy,5d84df5fe69ba158a235b8bd,Technician by ITI,Telangana,16.3623118,78.0621824,509103
+technician,suryapet,5d84df5fe69ba158a235b8bd,Technician by ITI,Telangana,17.1313756,79.6336242,508213
+technician,siddipet,5d84df5fe69ba158a235b8bd,Technician by ITI,Telangana,18.1017996,78.8519601,502103
+cook,hyderabad,5d84df7ae69ba158a235b8c3,Cook,Telangana,17.4267972,78.4524801,500082
+cook,adilabad,5d84df7ae69ba158a235b8c3,Cook,Telangana,19.6640624,78.5320107,504001
+cook,warangal,5d84df7ae69ba158a235b8c3,Cook,Telangana,17.9750561,79.5996716,506002
+cook,karimnagar,5d84df7ae69ba158a235b8c3,Cook,Telangana,18.4385553,79.1288412,505001
+cook,nizamabad,5d84df7ae69ba158a235b8c3,Cook,Telangana,18.6693532,78.0823084,503001
+cook,kamareddy,5d84df7ae69ba158a235b8c3,Cook,Telangana,18.3204832,78.3369523,503111
+cook,mahabubnagar,5d84df7ae69ba158a235b8c3,Cook,Telangana,16.7488379,78.0035172,509001
+cook,nalgonda,5d84df7ae69ba158a235b8c3,Cook,Telangana,17.0839983,79.2112769,508001
+cook,khammam,5d84df7ae69ba158a235b8c3,Cook,Telangana,17.382593,80.7436141,507316
+cook,wanaparthy,5d84df7ae69ba158a235b8c3,Cook,Telangana,16.3623118,78.0621824,509103
+cook,suryapet,5d84df7ae69ba158a235b8c3,Cook,Telangana,17.1313756,79.6336242,508213
+cook,siddipet,5d84df7ae69ba158a235b8c3,Cook,Telangana,18.1017996,78.8519601,502103
+maid,hyderabad,5d84dfa167fa4e589c9b3880,Maid,Telangana,17.4267972,78.4524801,500082
+maid,adilabad,5d84dfa167fa4e589c9b3880,Maid,Telangana,19.6640624,78.5320107,504001
+maid,warangal,5d84dfa167fa4e589c9b3880,Maid,Telangana,17.9750561,79.5996716,506002
+maid,karimnagar,5d84dfa167fa4e589c9b3880,Maid,Telangana,18.4385553,79.1288412,505001
+maid,nizamabad,5d84dfa167fa4e589c9b3880,Maid,Telangana,18.6693532,78.0823084,503001
+maid,kamareddy,5d84dfa167fa4e589c9b3880,Maid,Telangana,18.3204832,78.3369523,503111
+maid,mahabubnagar,5d84dfa167fa4e589c9b3880,Maid,Telangana,16.7488379,78.0035172,509001
+maid,nalgonda,5d84dfa167fa4e589c9b3880,Maid,Telangana,17.0839983,79.2112769,508001
+maid,khammam,5d84dfa167fa4e589c9b3880,Maid,Telangana,17.382593,80.7436141,507316
+maid,wanaparthy,5d84dfa167fa4e589c9b3880,Maid,Telangana,16.3623118,78.0621824,509103
+maid,suryapet,5d84dfa167fa4e589c9b3880,Maid,Telangana,17.1313756,79.6336242,508213
+maid,siddipet,5d84dfa167fa4e589c9b3880,Maid,Telangana,18.1017996,78.8519601,502103
+civil engineer,hyderabad,5d84e0c9e69ba158a235b8de,Engineer(Mechanical by Civil),Telangana,17.4267972,78.4524801,500082
+civil engineer,adilabad,5d84e0c9e69ba158a235b8de,Engineer(Mechanical by Civil),Telangana,19.6640624,78.5320107,504001
+civil engineer,warangal,5d84e0c9e69ba158a235b8de,Engineer(Mechanical by Civil),Telangana,17.9750561,79.5996716,506002
+civil engineer,karimnagar,5d84e0c9e69ba158a235b8de,Engineer(Mechanical by Civil),Telangana,18.4385553,79.1288412,505001
+civil engineer,nizamabad,5d84e0c9e69ba158a235b8de,Engineer(Mechanical by Civil),Telangana,18.6693532,78.0823084,503001
+civil engineer,kamareddy,5d84e0c9e69ba158a235b8de,Engineer(Mechanical by Civil),Telangana,18.3204832,78.3369523,503111
+civil engineer,mahabubnagar,5d84e0c9e69ba158a235b8de,Engineer(Mechanical by Civil),Telangana,16.7488379,78.0035172,509001
+civil engineer,nalgonda,5d84e0c9e69ba158a235b8de,Engineer(Mechanical by Civil),Telangana,17.0839983,79.2112769,508001
+civil engineer,khammam,5d84e0c9e69ba158a235b8de,Engineer(Mechanical by Civil),Telangana,17.382593,80.7436141,507316
+civil engineer,wanaparthy,5d84e0c9e69ba158a235b8de,Engineer(Mechanical by Civil),Telangana,16.3623118,78.0621824,509103
+civil engineer,suryapet,5d84e0c9e69ba158a235b8de,Engineer(Mechanical by Civil),Telangana,17.1313756,79.6336242,508213
+civil engineer,siddipet,5d84e0c9e69ba158a235b8de,Engineer(Mechanical by Civil),Telangana,18.1017996,78.8519601,502103
+lab assistant,hyderabad,5d84e115e69ba158a235b8e3,Lab Assistant,Telangana,17.4267972,78.4524801,500082
+lab assistant,adilabad,5d84e115e69ba158a235b8e3,Lab Assistant,Telangana,19.6640624,78.5320107,504001
+lab assistant,warangal,5d84e115e69ba158a235b8e3,Lab Assistant,Telangana,17.9750561,79.5996716,506002
+lab assistant,karimnagar,5d84e115e69ba158a235b8e3,Lab Assistant,Telangana,18.4385553,79.1288412,505001
+lab assistant,nizamabad,5d84e115e69ba158a235b8e3,Lab Assistant,Telangana,18.6693532,78.0823084,503001
+lab assistant,kamareddy,5d84e115e69ba158a235b8e3,Lab Assistant,Telangana,18.3204832,78.3369523,503111
+lab assistant,mahabubnagar,5d84e115e69ba158a235b8e3,Lab Assistant,Telangana,16.7488379,78.0035172,509001
+lab assistant,nalgonda,5d84e115e69ba158a235b8e3,Lab Assistant,Telangana,17.0839983,79.2112769,508001
+lab assistant,khammam,5d84e115e69ba158a235b8e3,Lab Assistant,Telangana,17.382593,80.7436141,507316
+lab assistant,wanaparthy,5d84e115e69ba158a235b8e3,Lab Assistant,Telangana,16.3623118,78.0621824,509103
+lab assistant,suryapet,5d84e115e69ba158a235b8e3,Lab Assistant,Telangana,17.1313756,79.6336242,508213
+lab assistant,siddipet,5d84e115e69ba158a235b8e3,Lab Assistant,Telangana,18.1017996,78.8519601,502103
+doctors,hyderabad,5d84e14167fa4e589c9b38a1,Medical (Doctor by Dentist byPhysician),Telangana,17.4267972,78.4524801,500082
+doctors,adilabad,5d84e14167fa4e589c9b38a1,Medical (Doctor by Dentist byPhysician),Telangana,19.6640624,78.5320107,504001
+doctors,warangal,5d84e14167fa4e589c9b38a1,Medical (Doctor by Dentist byPhysician),Telangana,17.9750561,79.5996716,506002
+doctors,karimnagar,5d84e14167fa4e589c9b38a1,Medical (Doctor by Dentist byPhysician),Telangana,18.4385553,79.1288412,505001
+doctors,nizamabad,5d84e14167fa4e589c9b38a1,Medical (Doctor by Dentist byPhysician),Telangana,18.6693532,78.0823084,503001
+doctors,kamareddy,5d84e14167fa4e589c9b38a1,Medical (Doctor by Dentist byPhysician),Telangana,18.3204832,78.3369523,503111
+doctors,mahabubnagar,5d84e14167fa4e589c9b38a1,Medical (Doctor by Dentist byPhysician),Telangana,16.7488379,78.0035172,509001
+doctors,nalgonda,5d84e14167fa4e589c9b38a1,Medical (Doctor by Dentist byPhysician),Telangana,17.0839983,79.2112769,508001
+doctors,khammam,5d84e14167fa4e589c9b38a1,Medical (Doctor by Dentist byPhysician),Telangana,17.382593,80.7436141,507316
+doctors,wanaparthy,5d84e14167fa4e589c9b38a1,Medical (Doctor by Dentist byPhysician),Telangana,16.3623118,78.0621824,509103
+doctors,suryapet,5d84e14167fa4e589c9b38a1,Medical (Doctor by Dentist byPhysician),Telangana,17.1313756,79.6336242,508213
+doctors,siddipet,5d84e14167fa4e589c9b38a1,Medical (Doctor by Dentist byPhysician),Telangana,18.1017996,78.8519601,502103
+hr Executive ,hyderabad,5d84e1d7e69ba158a235b909,Human Resource,Telangana,17.4267972,78.4524801,500082
+hr Executive ,adilabad,5d84e1d7e69ba158a235b909,Human Resource,Telangana,19.6640624,78.5320107,504001
+hr Executive ,warangal,5d84e1d7e69ba158a235b909,Human Resource,Telangana,17.9750561,79.5996716,506002
+hr Executive ,karimnagar,5d84e1d7e69ba158a235b909,Human Resource,Telangana,18.4385553,79.1288412,505001
+hr Executive ,nizamabad,5d84e1d7e69ba158a235b909,Human Resource,Telangana,18.6693532,78.0823084,503001
+hr Executive ,kamareddy,5d84e1d7e69ba158a235b909,Human Resource,Telangana,18.3204832,78.3369523,503111
+hr Executive ,mahabubnagar,5d84e1d7e69ba158a235b909,Human Resource,Telangana,16.7488379,78.0035172,509001
+hr Executive ,nalgonda,5d84e1d7e69ba158a235b909,Human Resource,Telangana,17.0839983,79.2112769,508001
+hr Executive ,khammam,5d84e1d7e69ba158a235b909,Human Resource,Telangana,17.382593,80.7436141,507316
+hr Executive ,wanaparthy,5d84e1d7e69ba158a235b909,Human Resource,Telangana,16.3623118,78.0621824,509103
+hr Executive ,suryapet,5d84e1d7e69ba158a235b909,Human Resource,Telangana,17.1313756,79.6336242,508213
+hr Executive ,siddipet,5d84e1d7e69ba158a235b909,Human Resource,Telangana,18.1017996,78.8519601,502103
+digital marketing executive,hyderabad,5d84e21be69ba158a235b913,Digital Marketing,Telangana,17.4267972,78.4524801,500082
+digital marketing executive,adilabad,5d84e21be69ba158a235b913,Digital Marketing,Telangana,19.6640624,78.5320107,504001
+digital marketing executive,warangal,5d84e21be69ba158a235b913,Digital Marketing,Telangana,17.9750561,79.5996716,506002
+digital marketing executive,karimnagar,5d84e21be69ba158a235b913,Digital Marketing,Telangana,18.4385553,79.1288412,505001
+digital marketing executive,nizamabad,5d84e21be69ba158a235b913,Digital Marketing,Telangana,18.6693532,78.0823084,503001
+digital marketing executive,kamareddy,5d84e21be69ba158a235b913,Digital Marketing,Telangana,18.3204832,78.3369523,503111
+digital marketing executive,mahabubnagar,5d84e21be69ba158a235b913,Digital Marketing,Telangana,16.7488379,78.0035172,509001
+digital marketing executive,nalgonda,5d84e21be69ba158a235b913,Digital Marketing,Telangana,17.0839983,79.2112769,508001
+digital marketing executive,khammam,5d84e21be69ba158a235b913,Digital Marketing,Telangana,17.382593,80.7436141,507316
+digital marketing executive,wanaparthy,5d84e21be69ba158a235b913,Digital Marketing,Telangana,16.3623118,78.0621824,509103
+digital marketing executive,suryapet,5d84e21be69ba158a235b913,Digital Marketing,Telangana,17.1313756,79.6336242,508213
+digital marketing executive,siddipet,5d84e21be69ba158a235b913,Digital Marketing,Telangana,18.1017996,78.8519601,502103
+counsellor,hyderabad,5d84e25467fa4e589c9b39f0,Counsellor,Telangana,17.4267972,78.4524801,500082
+counsellor,adilabad,5d84e25467fa4e589c9b39f0,Counsellor,Telangana,19.6640624,78.5320107,504001
+counsellor,warangal,5d84e25467fa4e589c9b39f0,Counsellor,Telangana,17.9750561,79.5996716,506002
+counsellor,karimnagar,5d84e25467fa4e589c9b39f0,Counsellor,Telangana,18.4385553,79.1288412,505001
+counsellor,nizamabad,5d84e25467fa4e589c9b39f0,Counsellor,Telangana,18.6693532,78.0823084,503001
+counsellor,kamareddy,5d84e25467fa4e589c9b39f0,Counsellor,Telangana,18.3204832,78.3369523,503111
+counsellor,mahabubnagar,5d84e25467fa4e589c9b39f0,Counsellor,Telangana,16.7488379,78.0035172,509001
+counsellor,nalgonda,5d84e25467fa4e589c9b39f0,Counsellor,Telangana,17.0839983,79.2112769,508001
+counsellor,khammam,5d84e25467fa4e589c9b39f0,Counsellor,Telangana,17.382593,80.7436141,507316
+counsellor,wanaparthy,5d84e25467fa4e589c9b39f0,Counsellor,Telangana,16.3623118,78.0621824,509103
+counsellor,suryapet,5d84e25467fa4e589c9b39f0,Counsellor,Telangana,17.1313756,79.6336242,508213
+counsellor,siddipet,5d84e25467fa4e589c9b39f0,Counsellor,Telangana,18.1017996,78.8519601,502103
+content writer,hyderabad,5d84e269e69ba158a235b926,Content Writing,Telangana,17.4267972,78.4524801,500082
+content writer,adilabad,5d84e269e69ba158a235b926,Content Writing,Telangana,19.6640624,78.5320107,504001
+content writer,warangal,5d84e269e69ba158a235b926,Content Writing,Telangana,17.9750561,79.5996716,506002
+content writer,karimnagar,5d84e269e69ba158a235b926,Content Writing,Telangana,18.4385553,79.1288412,505001
+content writer,nizamabad,5d84e269e69ba158a235b926,Content Writing,Telangana,18.6693532,78.0823084,503001
+content writer,kamareddy,5d84e269e69ba158a235b926,Content Writing,Telangana,18.3204832,78.3369523,503111
+content writer,mahabubnagar,5d84e269e69ba158a235b926,Content Writing,Telangana,16.7488379,78.0035172,509001
+content writer,nalgonda,5d84e269e69ba158a235b926,Content Writing,Telangana,17.0839983,79.2112769,508001
+content writer,khammam,5d84e269e69ba158a235b926,Content Writing,Telangana,17.382593,80.7436141,507316
+content writer,wanaparthy,5d84e269e69ba158a235b926,Content Writing,Telangana,16.3623118,78.0621824,509103
+content writer,suryapet,5d84e269e69ba158a235b926,Content Writing,Telangana,17.1313756,79.6336242,508213
+content writer,siddipet,5d84e269e69ba158a235b926,Content Writing,Telangana,18.1017996,78.8519601,502103
+nurse,hyderabad,5d84dff5e69ba158a235b8cf,Hotel Waiter,Telangana,17.4267972,78.4524801,500082
+nurse,adilabad,5d84dff5e69ba158a235b8cf,Hotel Waiter,Telangana,19.6640624,78.5320107,504001
+nurse,warangal,5d84dff5e69ba158a235b8cf,Hotel Waiter,Telangana,17.9750561,79.5996716,506002
+nurse,karimnagar,5d84dff5e69ba158a235b8cf,Hotel Waiter,Telangana,18.4385553,79.1288412,505001
+nurse,nizamabad,5d84dff5e69ba158a235b8cf,Hotel Waiter,Telangana,18.6693532,78.0823084,503001
+nurse,kamareddy,5d84dff5e69ba158a235b8cf,Hotel Waiter,Telangana,18.3204832,78.3369523,503111
+nurse,mahabubnagar,5d84dff5e69ba158a235b8cf,Hotel Waiter,Telangana,16.7488379,78.0035172,509001
+nurse,nalgonda,5d84dff5e69ba158a235b8cf,Hotel Waiter,Telangana,17.0839983,79.2112769,508001
+nurse,khammam,5d84dff5e69ba158a235b8cf,Hotel Waiter,Telangana,17.382593,80.7436141,507316
+nurse,wanaparthy,5d84dff5e69ba158a235b8cf,Hotel Waiter,Telangana,16.3623118,78.0621824,509103
+nurse,suryapet,5d84dff5e69ba158a235b8cf,Hotel Waiter,Telangana,17.1313756,79.6336242,508213
+nurse,siddipet,5d84dff5e69ba158a235b8cf,Hotel Waiter,Telangana,18.1017996,78.8519601,502103
+care taker,hyderabad,5d84dff5e69ba158a235b8cf,Hotel Waiter,Telangana,17.4267972,78.4524801,500082
+care taker,adilabad,5d84dff5e69ba158a235b8cf,Hotel Waiter,Telangana,19.6640624,78.5320107,504001
+care taker,warangal,5d84dff5e69ba158a235b8cf,Hotel Waiter,Telangana,17.9750561,79.5996716,506002
+care taker,karimnagar,5d84dff5e69ba158a235b8cf,Hotel Waiter,Telangana,18.4385553,79.1288412,505001
+care taker,nizamabad,5d84dff5e69ba158a235b8cf,Hotel Waiter,Telangana,18.6693532,78.0823084,503001
+care taker,kamareddy,5d84dff5e69ba158a235b8cf,Hotel Waiter,Telangana,18.3204832,78.3369523,503111
+care taker,mahabubnagar,5d84dff5e69ba158a235b8cf,Hotel Waiter,Telangana,16.7488379,78.0035172,509001
+care taker,nalgonda,5d84dff5e69ba158a235b8cf,Hotel Waiter,Telangana,17.0839983,79.2112769,508001
+care taker,khammam,5d84dff5e69ba158a235b8cf,Hotel Waiter,Telangana,17.382593,80.7436141,507316
+care taker,wanaparthy,5d84dff5e69ba158a235b8cf,Hotel Waiter,Telangana,16.3623118,78.0621824,509103
+care taker,suryapet,5d84dff5e69ba158a235b8cf,Hotel Waiter,Telangana,17.1313756,79.6336242,508213
+care taker,siddipet,5d84dff5e69ba158a235b8cf,Hotel Waiter,Telangana,18.1017996,78.8519601,502103
+delivery boys,hyderabad,5d84ddf2e69ba158a235b899,Delivery,Telangana,17.4267972,78.4524801,500082
+delivery boys,adilabad,5d84ddf2e69ba158a235b899,Delivery,Telangana,19.6640624,78.5320107,504001
+delivery boys,warangal,5d84ddf2e69ba158a235b899,Delivery,Telangana,17.9750561,79.5996716,506002
+delivery boys,karimnagar,5d84ddf2e69ba158a235b899,Delivery,Telangana,18.4385553,79.1288412,505001
+delivery boys,nizamabad,5d84ddf2e69ba158a235b899,Delivery,Telangana,18.6693532,78.0823084,503001
+delivery boys,kamareddy,5d84ddf2e69ba158a235b899,Delivery,Telangana,18.3204832,78.3369523,503111
+delivery boys,mahabubnagar,5d84ddf2e69ba158a235b899,Delivery,Telangana,16.7488379,78.0035172,509001
+delivery boys,nalgonda,5d84ddf2e69ba158a235b899,Delivery,Telangana,17.0839983,79.2112769,508001
+delivery boys,khammam,5d84ddf2e69ba158a235b899,Delivery,Telangana,17.382593,80.7436141,507316
+delivery boys,wanaparthy,5d84ddf2e69ba158a235b899,Delivery,Telangana,16.3623118,78.0621824,509103
+delivery boys,suryapet,5d84ddf2e69ba158a235b899,Delivery,Telangana,17.1313756,79.6336242,508213
+delivery boys,siddipet,5d84ddf2e69ba158a235b899,Delivery,Telangana,18.1017996,78.8519601,502103
+back Office Executive,Srikakulam,5d84dd8ce69ba158a235b891,Others,Andhra Pradesh,18.2890868,83.9055997,532001
+back Office Executive,Visakhapatnam,5d84dd8ce69ba158a235b891,Others,Andhra Pradesh,17.7188461,83.3075167,500020
+back Office Executive,Vizianagaram,5d84dd8ce69ba158a235b891,Others,Andhra Pradesh,18.1160657,83.4029738,535001
+back Office Executive,West Godavari,5d84dd8ce69ba158a235b891,Others,Andhra Pradesh,16.949239,81.2628961,534426
+back Office Executive,Kadapa,5d84dd8ce69ba158a235b891,Others,Andhra Pradesh,14.4783475,78.821275,516001
+back Office Executive,Krishna,5d84dd8ce69ba158a235b891,Others,Andhra Pradesh,16.4118704,77.4013403,509352
+back Office Executive,Kurnool,5d84dd8ce69ba158a235b891,Others,Andhra Pradesh,15.8285829,78.0509282,518001
+back Office Executive,Prakasam,5d84dd8ce69ba158a235b891,Others,Andhra Pradesh,16.01666,80.2209773,523171
+back Office Executive,Anantapur,5d84dd8ce69ba158a235b891,Others,Andhra Pradesh,14.6941362,77.5991921,515001
+back Office Executive,Chittoor,5d84dd8ce69ba158a235b891,Others,Andhra Pradesh,13.217176,79.1003289,517001
+back Office Executive,East Godavari,5d84dd8ce69ba158a235b891,Others,Andhra Pradesh,17.4776649,81.8442934,533288
+back Office Executive,Guntur,5d84dd8ce69ba158a235b891,Others,Andhra Pradesh,16.2893144,80.4604643,522001
+telecaller,Srikakulam,5d84de07e69ba158a235b89c,Delivery,Andhra Pradesh,18.2890868,83.9055997,532001
+telecaller,Visakhapatnam,5d84de07e69ba158a235b89c,Delivery,Andhra Pradesh,17.7188461,83.3075167,500020
+telecaller,Vizianagaram,5d84de07e69ba158a235b89c,Delivery,Andhra Pradesh,18.1160657,83.4029738,535001
+telecaller,West Godavari,5d84de07e69ba158a235b89c,Delivery,Andhra Pradesh,16.949239,81.2628961,534426
+telecaller,Kadapa,5d84de07e69ba158a235b89c,Delivery,Andhra Pradesh,14.4783475,78.821275,516001
+telecaller,Krishna,5d84de07e69ba158a235b89c,Delivery,Andhra Pradesh,16.4118704,77.4013403,509352
+telecaller,Kurnool,5d84de07e69ba158a235b89c,Delivery,Andhra Pradesh,15.8285829,78.0509282,518001
+telecaller,Prakasam,5d84de07e69ba158a235b89c,Delivery,Andhra Pradesh,16.01666,80.2209773,523171
+telecaller,Anantapur,5d84de07e69ba158a235b89c,Delivery,Andhra Pradesh,14.6941362,77.5991921,515001
+telecaller,Chittoor,5d84de07e69ba158a235b89c,Delivery,Andhra Pradesh,13.217176,79.1003289,517001
+telecaller,East Godavari,5d84de07e69ba158a235b89c,Delivery,Andhra Pradesh,17.4776649,81.8442934,533288
+telecaller,Guntur,5d84de07e69ba158a235b89c,Delivery,Andhra Pradesh,16.2893144,80.4604643,522001
+accountant,Srikakulam,5d84ddc567fa4e589c9b3860,Others,Andhra Pradesh,18.2890868,83.9055997,532001
+accountant,Visakhapatnam,5d84ddc567fa4e589c9b3860,Others,Andhra Pradesh,17.7188461,83.3075167,500020
+accountant,Vizianagaram,5d84ddc567fa4e589c9b3860,Others,Andhra Pradesh,18.1160657,83.4029738,535001
+accountant,West Godavari,5d84ddc567fa4e589c9b3860,Others,Andhra Pradesh,16.949239,81.2628961,534426
+accountant,Kadapa,5d84ddc567fa4e589c9b3860,Others,Andhra Pradesh,14.4783475,78.821275,516001
+accountant,Krishna,5d84ddc567fa4e589c9b3860,Others,Andhra Pradesh,16.4118704,77.4013403,509352
+accountant,Kurnool,5d84ddc567fa4e589c9b3860,Others,Andhra Pradesh,15.8285829,78.0509282,518001
+accountant,Prakasam,5d84ddc567fa4e589c9b3860,Others,Andhra Pradesh,16.01666,80.2209773,523171
+accountant,Anantapur,5d84ddc567fa4e589c9b3860,Others,Andhra Pradesh,14.6941362,77.5991921,515001
+accountant,Chittoor,5d84ddc567fa4e589c9b3860,Others,Andhra Pradesh,13.217176,79.1003289,517001
+accountant,East Godavari,5d84ddc567fa4e589c9b3860,Others,Andhra Pradesh,17.4776649,81.8442934,533288
+accountant,Guntur,5d84ddc567fa4e589c9b3860,Others,Andhra Pradesh,16.2893144,80.4604643,522001
+security guard,Srikakulam,5d84e02d67fa4e589c9b388a,Ward Boy,Andhra Pradesh,18.2890868,83.9055997,532001
+security guard,Visakhapatnam,5d84e02d67fa4e589c9b388a,Ward Boy,Andhra Pradesh,17.7188461,83.3075167,500020
+security guard,Vizianagaram,5d84e02d67fa4e589c9b388a,Ward Boy,Andhra Pradesh,18.1160657,83.4029738,535001
+security guard,West Godavari,5d84e02d67fa4e589c9b388a,Ward Boy,Andhra Pradesh,16.949239,81.2628961,534426
+security guard,Kadapa,5d84e02d67fa4e589c9b388a,Ward Boy,Andhra Pradesh,14.4783475,78.821275,516001
+security guard,Krishna,5d84e02d67fa4e589c9b388a,Ward Boy,Andhra Pradesh,16.4118704,77.4013403,509352
+security guard,Kurnool,5d84e02d67fa4e589c9b388a,Ward Boy,Andhra Pradesh,15.8285829,78.0509282,518001
+security guard,Prakasam,5d84e02d67fa4e589c9b388a,Ward Boy,Andhra Pradesh,16.01666,80.2209773,523171
+security guard,Anantapur,5d84e02d67fa4e589c9b388a,Ward Boy,Andhra Pradesh,14.6941362,77.5991921,515001
+security guard,Chittoor,5d84e02d67fa4e589c9b388a,Ward Boy,Andhra Pradesh,13.217176,79.1003289,517001
+security guard,East Godavari,5d84e02d67fa4e589c9b388a,Ward Boy,Andhra Pradesh,17.4776649,81.8442934,533288
+security guard,Guntur,5d84e02d67fa4e589c9b388a,Ward Boy,Andhra Pradesh,16.2893144,80.4604643,522001
+field sales executive,Srikakulam,5d84de1de69ba158a235b89e,Delivery,Andhra Pradesh,18.2890868,83.9055997,532001
+field sales executive,Visakhapatnam,5d84de1de69ba158a235b89e,Delivery,Andhra Pradesh,17.7188461,83.3075167,500020
+field sales executive,Vizianagaram,5d84de1de69ba158a235b89e,Delivery,Andhra Pradesh,18.1160657,83.4029738,535001
+field sales executive,West Godavari,5d84de1de69ba158a235b89e,Delivery,Andhra Pradesh,16.949239,81.2628961,534426
+field sales executive,Kadapa,5d84de1de69ba158a235b89e,Delivery,Andhra Pradesh,14.4783475,78.821275,516001
+field sales executive,Krishna,5d84de1de69ba158a235b89e,Delivery,Andhra Pradesh,16.4118704,77.4013403,509352
+field sales executive,Kurnool,5d84de1de69ba158a235b89e,Delivery,Andhra Pradesh,15.8285829,78.0509282,518001
+field sales executive,Prakasam,5d84de1de69ba158a235b89e,Delivery,Andhra Pradesh,16.01666,80.2209773,523171
+field sales executive,Anantapur,5d84de1de69ba158a235b89e,Delivery,Andhra Pradesh,14.6941362,77.5991921,515001
+field sales executive,Chittoor,5d84de1de69ba158a235b89e,Delivery,Andhra Pradesh,13.217176,79.1003289,517001
+field sales executive,East Godavari,5d84de1de69ba158a235b89e,Delivery,Andhra Pradesh,17.4776649,81.8442934,533288
+field sales executive,Guntur,5d84de1de69ba158a235b89e,Delivery,Andhra Pradesh,16.2893144,80.4604643,522001
+teacher,Srikakulam,5d84df9167fa4e589c9b387f,Cook,Andhra Pradesh,18.2890868,83.9055997,532001
+teacher,Visakhapatnam,5d84df9167fa4e589c9b387f,Cook,Andhra Pradesh,17.7188461,83.3075167,500020
+teacher,Vizianagaram,5d84df9167fa4e589c9b387f,Cook,Andhra Pradesh,18.1160657,83.4029738,535001
+teacher,West Godavari,5d84df9167fa4e589c9b387f,Cook,Andhra Pradesh,16.949239,81.2628961,534426
+teacher,Kadapa,5d84df9167fa4e589c9b387f,Cook,Andhra Pradesh,14.4783475,78.821275,516001
+teacher,Krishna,5d84df9167fa4e589c9b387f,Cook,Andhra Pradesh,16.4118704,77.4013403,509352
+teacher,Kurnool,5d84df9167fa4e589c9b387f,Cook,Andhra Pradesh,15.8285829,78.0509282,518001
+teacher,Prakasam,5d84df9167fa4e589c9b387f,Cook,Andhra Pradesh,16.01666,80.2209773,523171
+teacher,Anantapur,5d84df9167fa4e589c9b387f,Cook,Andhra Pradesh,14.6941362,77.5991921,515001
+teacher,Chittoor,5d84df9167fa4e589c9b387f,Cook,Andhra Pradesh,13.217176,79.1003289,517001
+teacher,East Godavari,5d84df9167fa4e589c9b387f,Cook,Andhra Pradesh,17.4776649,81.8442934,533288
+teacher,Guntur,5d84df9167fa4e589c9b387f,Cook,Andhra Pradesh,16.2893144,80.4604643,522001
+marketing executive,Srikakulam,5d84de5fe69ba158a235b8a9,Delivery,Andhra Pradesh,18.2890868,83.9055997,532001
+marketing executive,Visakhapatnam,5d84de5fe69ba158a235b8a9,Delivery,Andhra Pradesh,17.7188461,83.3075167,500020
+marketing executive,Vizianagaram,5d84de5fe69ba158a235b8a9,Delivery,Andhra Pradesh,18.1160657,83.4029738,535001
+marketing executive,West Godavari,5d84de5fe69ba158a235b8a9,Delivery,Andhra Pradesh,16.949239,81.2628961,534426
+marketing executive,Kadapa,5d84de5fe69ba158a235b8a9,Delivery,Andhra Pradesh,14.4783475,78.821275,516001
+marketing executive,Krishna,5d84de5fe69ba158a235b8a9,Delivery,Andhra Pradesh,16.4118704,77.4013403,509352
+marketing executive,Kurnool,5d84de5fe69ba158a235b8a9,Delivery,Andhra Pradesh,15.8285829,78.0509282,518001
+marketing executive,Prakasam,5d84de5fe69ba158a235b8a9,Delivery,Andhra Pradesh,16.01666,80.2209773,523171
+marketing executive,Anantapur,5d84de5fe69ba158a235b8a9,Delivery,Andhra Pradesh,14.6941362,77.5991921,515001
+marketing executive,Chittoor,5d84de5fe69ba158a235b8a9,Delivery,Andhra Pradesh,13.217176,79.1003289,517001
+marketing executive,East Godavari,5d84de5fe69ba158a235b8a9,Delivery,Andhra Pradesh,17.4776649,81.8442934,533288
+marketing executive,Guntur,5d84de5fe69ba158a235b8a9,Delivery,Andhra Pradesh,16.2893144,80.4604643,522001
+office assistant,Srikakulam,5d84dda867fa4e589c9b385e,Others,Andhra Pradesh,18.2890868,83.9055997,532001
+office assistant,Visakhapatnam,5d84dda867fa4e589c9b385e,Others,Andhra Pradesh,17.7188461,83.3075167,500020
+office assistant,Vizianagaram,5d84dda867fa4e589c9b385e,Others,Andhra Pradesh,18.1160657,83.4029738,535001
+office assistant,West Godavari,5d84dda867fa4e589c9b385e,Others,Andhra Pradesh,16.949239,81.2628961,534426
+office assistant,Kadapa,5d84dda867fa4e589c9b385e,Others,Andhra Pradesh,14.4783475,78.821275,516001
+office assistant,Krishna,5d84dda867fa4e589c9b385e,Others,Andhra Pradesh,16.4118704,77.4013403,509352
+office assistant,Kurnool,5d84dda867fa4e589c9b385e,Others,Andhra Pradesh,15.8285829,78.0509282,518001
+office assistant,Prakasam,5d84dda867fa4e589c9b385e,Others,Andhra Pradesh,16.01666,80.2209773,523171
+office assistant,Anantapur,5d84dda867fa4e589c9b385e,Others,Andhra Pradesh,14.6941362,77.5991921,515001
+office assistant,Chittoor,5d84dda867fa4e589c9b385e,Others,Andhra Pradesh,13.217176,79.1003289,517001
+office assistant,East Godavari,5d84dda867fa4e589c9b385e,Others,Andhra Pradesh,17.4776649,81.8442934,533288
+office assistant,Guntur,5d84dda867fa4e589c9b385e,Others,Andhra Pradesh,16.2893144,80.4604643,522001
+data entry operator,Srikakulam,5d84e1c6e69ba158a235b908,Photographer,Andhra Pradesh,18.2890868,83.9055997,532001
+data entry operator,Visakhapatnam,5d84e1c6e69ba158a235b908,Photographer,Andhra Pradesh,17.7188461,83.3075167,500020
+data entry operator,Vizianagaram,5d84e1c6e69ba158a235b908,Photographer,Andhra Pradesh,18.1160657,83.4029738,535001
+data entry operator,West Godavari,5d84e1c6e69ba158a235b908,Photographer,Andhra Pradesh,16.949239,81.2628961,534426
+data entry operator,Kadapa,5d84e1c6e69ba158a235b908,Photographer,Andhra Pradesh,14.4783475,78.821275,516001
+data entry operator,Krishna,5d84e1c6e69ba158a235b908,Photographer,Andhra Pradesh,16.4118704,77.4013403,509352
+data entry operator,Kurnool,5d84e1c6e69ba158a235b908,Photographer,Andhra Pradesh,15.8285829,78.0509282,518001
+data entry operator,Prakasam,5d84e1c6e69ba158a235b908,Photographer,Andhra Pradesh,16.01666,80.2209773,523171
+data entry operator,Anantapur,5d84e1c6e69ba158a235b908,Photographer,Andhra Pradesh,14.6941362,77.5991921,515001
+data entry operator,Chittoor,5d84e1c6e69ba158a235b908,Photographer,Andhra Pradesh,13.217176,79.1003289,517001
+data entry operator,East Godavari,5d84e1c6e69ba158a235b908,Photographer,Andhra Pradesh,17.4776649,81.8442934,533288
+data entry operator,Guntur,5d84e1c6e69ba158a235b908,Photographer,Andhra Pradesh,16.2893144,80.4604643,522001
+office boy,Srikakulam,5d84dda867fa4e589c9b385e,Others,Andhra Pradesh,18.2890868,83.9055997,532001
+office boy,Visakhapatnam,5d84dda867fa4e589c9b385e,Others,Andhra Pradesh,17.7188461,83.3075167,500020
+office boy,Vizianagaram,5d84dda867fa4e589c9b385e,Others,Andhra Pradesh,18.1160657,83.4029738,535001
+office boy,West Godavari,5d84dda867fa4e589c9b385e,Others,Andhra Pradesh,16.949239,81.2628961,534426
+office boy,Kadapa,5d84dda867fa4e589c9b385e,Others,Andhra Pradesh,14.4783475,78.821275,516001
+office boy,Krishna,5d84dda867fa4e589c9b385e,Others,Andhra Pradesh,16.4118704,77.4013403,509352
+office boy,Kurnool,5d84dda867fa4e589c9b385e,Others,Andhra Pradesh,15.8285829,78.0509282,518001
+office boy,Prakasam,5d84dda867fa4e589c9b385e,Others,Andhra Pradesh,16.01666,80.2209773,523171
+office boy,Anantapur,5d84dda867fa4e589c9b385e,Others,Andhra Pradesh,14.6941362,77.5991921,515001
+office boy,Chittoor,5d84dda867fa4e589c9b385e,Others,Andhra Pradesh,13.217176,79.1003289,517001
+office boy,East Godavari,5d84dda867fa4e589c9b385e,Others,Andhra Pradesh,17.4776649,81.8442934,533288
+office boy,Guntur,5d84dda867fa4e589c9b385e,Others,Andhra Pradesh,16.2893144,80.4604643,522001
+clerk,Srikakulam,5d84dda867fa4e589c9b385e,Others,Andhra Pradesh,18.2890868,83.9055997,532001
+clerk,Visakhapatnam,5d84dda867fa4e589c9b385e,Others,Andhra Pradesh,17.7188461,83.3075167,500020
+clerk,Vizianagaram,5d84dda867fa4e589c9b385e,Others,Andhra Pradesh,18.1160657,83.4029738,535001
+clerk,West Godavari,5d84dda867fa4e589c9b385e,Others,Andhra Pradesh,16.949239,81.2628961,534426
+clerk,Kadapa,5d84dda867fa4e589c9b385e,Others,Andhra Pradesh,14.4783475,78.821275,516001
+clerk,Krishna,5d84dda867fa4e589c9b385e,Others,Andhra Pradesh,16.4118704,77.4013403,509352
+clerk,Kurnool,5d84dda867fa4e589c9b385e,Others,Andhra Pradesh,15.8285829,78.0509282,518001
+clerk,Prakasam,5d84dda867fa4e589c9b385e,Others,Andhra Pradesh,16.01666,80.2209773,523171
+clerk,Anantapur,5d84dda867fa4e589c9b385e,Others,Andhra Pradesh,14.6941362,77.5991921,515001
+clerk,Chittoor,5d84dda867fa4e589c9b385e,Others,Andhra Pradesh,13.217176,79.1003289,517001
+clerk,East Godavari,5d84dda867fa4e589c9b385e,Others,Andhra Pradesh,17.4776649,81.8442934,533288
+clerk,Guntur,5d84dda867fa4e589c9b385e,Others,Andhra Pradesh,16.2893144,80.4604643,522001
+sales executive,Srikakulam,5d84ddb667fa4e589c9b385f,Others,Andhra Pradesh,18.2890868,83.9055997,532001
+sales executive,Visakhapatnam,5d84ddb667fa4e589c9b385f,Others,Andhra Pradesh,17.7188461,83.3075167,500020
+sales executive,Vizianagaram,5d84ddb667fa4e589c9b385f,Others,Andhra Pradesh,18.1160657,83.4029738,535001
+sales executive,West Godavari,5d84ddb667fa4e589c9b385f,Others,Andhra Pradesh,16.949239,81.2628961,534426
+sales executive,Kadapa,5d84ddb667fa4e589c9b385f,Others,Andhra Pradesh,14.4783475,78.821275,516001
+sales executive,Krishna,5d84ddb667fa4e589c9b385f,Others,Andhra Pradesh,16.4118704,77.4013403,509352
+sales executive,Kurnool,5d84ddb667fa4e589c9b385f,Others,Andhra Pradesh,15.8285829,78.0509282,518001
+sales executive,Prakasam,5d84ddb667fa4e589c9b385f,Others,Andhra Pradesh,16.01666,80.2209773,523171
+sales executive,Anantapur,5d84ddb667fa4e589c9b385f,Others,Andhra Pradesh,14.6941362,77.5991921,515001
+sales executive,Chittoor,5d84ddb667fa4e589c9b385f,Others,Andhra Pradesh,13.217176,79.1003289,517001
+sales executive,East Godavari,5d84ddb667fa4e589c9b385f,Others,Andhra Pradesh,17.4776649,81.8442934,533288
+sales executive,Guntur,5d84ddb667fa4e589c9b385f,Others,Andhra Pradesh,16.2893144,80.4604643,522001
+receptionist,Srikakulam,5d84dde4e69ba158a235b897,Receptionist,Andhra Pradesh,18.2890868,83.9055997,532001
+receptionist,Visakhapatnam,5d84dde4e69ba158a235b897,Receptionist,Andhra Pradesh,17.7188461,83.3075167,500020
+receptionist,Vizianagaram,5d84dde4e69ba158a235b897,Receptionist,Andhra Pradesh,18.1160657,83.4029738,535001
+receptionist,West Godavari,5d84dde4e69ba158a235b897,Receptionist,Andhra Pradesh,16.949239,81.2628961,534426
+receptionist,Kadapa,5d84dde4e69ba158a235b897,Receptionist,Andhra Pradesh,14.4783475,78.821275,516001
+receptionist,Krishna,5d84dde4e69ba158a235b897,Receptionist,Andhra Pradesh,16.4118704,77.4013403,509352
+receptionist,Kurnool,5d84dde4e69ba158a235b897,Receptionist,Andhra Pradesh,15.8285829,78.0509282,518001
+receptionist,Prakasam,5d84dde4e69ba158a235b897,Receptionist,Andhra Pradesh,16.01666,80.2209773,523171
+receptionist,Anantapur,5d84dde4e69ba158a235b897,Receptionist,Andhra Pradesh,14.6941362,77.5991921,515001
+receptionist,Chittoor,5d84dde4e69ba158a235b897,Receptionist,Andhra Pradesh,13.217176,79.1003289,517001
+receptionist,East Godavari,5d84dde4e69ba158a235b897,Receptionist,Andhra Pradesh,17.4776649,81.8442934,533288
+receptionist,Guntur,5d84dde4e69ba158a235b897,Receptionist,Andhra Pradesh,16.2893144,80.4604643,522001
+computer operator,Srikakulam,5d84e1c6e69ba158a235b908,Photographer,Andhra Pradesh,18.2890868,83.9055997,532001
+computer operator,Visakhapatnam,5d84e1c6e69ba158a235b908,Photographer,Andhra Pradesh,17.7188461,83.3075167,500020
+computer operator,Vizianagaram,5d84e1c6e69ba158a235b908,Photographer,Andhra Pradesh,18.1160657,83.4029738,535001
+computer operator,West Godavari,5d84e1c6e69ba158a235b908,Photographer,Andhra Pradesh,16.949239,81.2628961,534426
+computer operator,Kadapa,5d84e1c6e69ba158a235b908,Photographer,Andhra Pradesh,14.4783475,78.821275,516001
+computer operator,Krishna,5d84e1c6e69ba158a235b908,Photographer,Andhra Pradesh,16.4118704,77.4013403,509352
+computer operator,Kurnool,5d84e1c6e69ba158a235b908,Photographer,Andhra Pradesh,15.8285829,78.0509282,518001
+computer operator,Prakasam,5d84e1c6e69ba158a235b908,Photographer,Andhra Pradesh,16.01666,80.2209773,523171
+computer operator,Anantapur,5d84e1c6e69ba158a235b908,Photographer,Andhra Pradesh,14.6941362,77.5991921,515001
+computer operator,Chittoor,5d84e1c6e69ba158a235b908,Photographer,Andhra Pradesh,13.217176,79.1003289,517001
+computer operator,East Godavari,5d84e1c6e69ba158a235b908,Photographer,Andhra Pradesh,17.4776649,81.8442934,533288
+computer operator,Guntur,5d84e1c6e69ba158a235b908,Photographer,Andhra Pradesh,16.2893144,80.4604643,522001
+housekeeping,Srikakulam,5d84dedfe69ba158a235b8b4,Housekeeping,Andhra Pradesh,18.2890868,83.9055997,532001
+housekeeping,Visakhapatnam,5d84dedfe69ba158a235b8b4,Housekeeping,Andhra Pradesh,17.7188461,83.3075167,500020
+housekeeping,Vizianagaram,5d84dedfe69ba158a235b8b4,Housekeeping,Andhra Pradesh,18.1160657,83.4029738,535001
+housekeeping,West Godavari,5d84dedfe69ba158a235b8b4,Housekeeping,Andhra Pradesh,16.949239,81.2628961,534426
+housekeeping,Kadapa,5d84dedfe69ba158a235b8b4,Housekeeping,Andhra Pradesh,14.4783475,78.821275,516001
+housekeeping,Krishna,5d84dedfe69ba158a235b8b4,Housekeeping,Andhra Pradesh,16.4118704,77.4013403,509352
+housekeeping,Kurnool,5d84dedfe69ba158a235b8b4,Housekeeping,Andhra Pradesh,15.8285829,78.0509282,518001
+housekeeping,Prakasam,5d84dedfe69ba158a235b8b4,Housekeeping,Andhra Pradesh,16.01666,80.2209773,523171
+housekeeping,Anantapur,5d84dedfe69ba158a235b8b4,Housekeeping,Andhra Pradesh,14.6941362,77.5991921,515001
+housekeeping,Chittoor,5d84dedfe69ba158a235b8b4,Housekeeping,Andhra Pradesh,13.217176,79.1003289,517001
+housekeeping,East Godavari,5d84dedfe69ba158a235b8b4,Housekeeping,Andhra Pradesh,17.4776649,81.8442934,533288
+housekeeping,Guntur,5d84dedfe69ba158a235b8b4,Housekeeping,Andhra Pradesh,16.2893144,80.4604643,522001
+graphic designer,Srikakulam,5d84df1267fa4e589c9b3874,DTP / Graphic designer,Andhra Pradesh,18.2890868,83.9055997,532001
+graphic designer,Visakhapatnam,5d84df1267fa4e589c9b3874,DTP / Graphic designer,Andhra Pradesh,17.7188461,83.3075167,500020
+graphic designer,Vizianagaram,5d84df1267fa4e589c9b3874,DTP / Graphic designer,Andhra Pradesh,18.1160657,83.4029738,535001
+graphic designer,West Godavari,5d84df1267fa4e589c9b3874,DTP / Graphic designer,Andhra Pradesh,16.949239,81.2628961,534426
+graphic designer,Kadapa,5d84df1267fa4e589c9b3874,DTP / Graphic designer,Andhra Pradesh,14.4783475,78.821275,516001
+graphic designer,Krishna,5d84df1267fa4e589c9b3874,DTP / Graphic designer,Andhra Pradesh,16.4118704,77.4013403,509352
+graphic designer,Kurnool,5d84df1267fa4e589c9b3874,DTP / Graphic designer,Andhra Pradesh,15.8285829,78.0509282,518001
+graphic designer,Prakasam,5d84df1267fa4e589c9b3874,DTP / Graphic designer,Andhra Pradesh,16.01666,80.2209773,523171
+graphic designer,Anantapur,5d84df1267fa4e589c9b3874,DTP / Graphic designer,Andhra Pradesh,14.6941362,77.5991921,515001
+graphic designer,Chittoor,5d84df1267fa4e589c9b3874,DTP / Graphic designer,Andhra Pradesh,13.217176,79.1003289,517001
+graphic designer,East Godavari,5d84df1267fa4e589c9b3874,DTP / Graphic designer,Andhra Pradesh,17.4776649,81.8442934,533288
+graphic designer,Guntur,5d84df1267fa4e589c9b3874,DTP / Graphic designer,Andhra Pradesh,16.2893144,80.4604643,522001
+dtp operator,Srikakulam,5d84df1267fa4e589c9b3874,DTP / Graphic designer,Andhra Pradesh,18.2890868,83.9055997,532001
+dtp operator,Visakhapatnam,5d84df1267fa4e589c9b3874,DTP / Graphic designer,Andhra Pradesh,17.7188461,83.3075167,500020
+dtp operator,Vizianagaram,5d84df1267fa4e589c9b3874,DTP / Graphic designer,Andhra Pradesh,18.1160657,83.4029738,535001
+dtp operator,West Godavari,5d84df1267fa4e589c9b3874,DTP / Graphic designer,Andhra Pradesh,16.949239,81.2628961,534426
+dtp operator,Kadapa,5d84df1267fa4e589c9b3874,DTP / Graphic designer,Andhra Pradesh,14.4783475,78.821275,516001
+dtp operator,Krishna,5d84df1267fa4e589c9b3874,DTP / Graphic designer,Andhra Pradesh,16.4118704,77.4013403,509352
+dtp operator,Kurnool,5d84df1267fa4e589c9b3874,DTP / Graphic designer,Andhra Pradesh,15.8285829,78.0509282,518001
+dtp operator,Prakasam,5d84df1267fa4e589c9b3874,DTP / Graphic designer,Andhra Pradesh,16.01666,80.2209773,523171
+dtp operator,Anantapur,5d84df1267fa4e589c9b3874,DTP / Graphic designer,Andhra Pradesh,14.6941362,77.5991921,515001
+dtp operator,Chittoor,5d84df1267fa4e589c9b3874,DTP / Graphic designer,Andhra Pradesh,13.217176,79.1003289,517001
+dtp operator,East Godavari,5d84df1267fa4e589c9b3874,DTP / Graphic designer,Andhra Pradesh,17.4776649,81.8442934,533288
+dtp operator,Guntur,5d84df1267fa4e589c9b3874,DTP / Graphic designer,Andhra Pradesh,16.2893144,80.4604643,522001
+technician,Srikakulam,5d84df5fe69ba158a235b8bd,Technician by ITI,Andhra Pradesh,18.2890868,83.9055997,532001
+technician,Visakhapatnam,5d84df5fe69ba158a235b8bd,Technician by ITI,Andhra Pradesh,17.7188461,83.3075167,500020
+technician,Vizianagaram,5d84df5fe69ba158a235b8bd,Technician by ITI,Andhra Pradesh,18.1160657,83.4029738,535001
+technician,West Godavari,5d84df5fe69ba158a235b8bd,Technician by ITI,Andhra Pradesh,16.949239,81.2628961,534426
+technician,Kadapa,5d84df5fe69ba158a235b8bd,Technician by ITI,Andhra Pradesh,14.4783475,78.821275,516001
+technician,Krishna,5d84df5fe69ba158a235b8bd,Technician by ITI,Andhra Pradesh,16.4118704,77.4013403,509352
+technician,Kurnool,5d84df5fe69ba158a235b8bd,Technician by ITI,Andhra Pradesh,15.8285829,78.0509282,518001
+technician,Prakasam,5d84df5fe69ba158a235b8bd,Technician by ITI,Andhra Pradesh,16.01666,80.2209773,523171
+technician,Anantapur,5d84df5fe69ba158a235b8bd,Technician by ITI,Andhra Pradesh,14.6941362,77.5991921,515001
+technician,Chittoor,5d84df5fe69ba158a235b8bd,Technician by ITI,Andhra Pradesh,13.217176,79.1003289,517001
+technician,East Godavari,5d84df5fe69ba158a235b8bd,Technician by ITI,Andhra Pradesh,17.4776649,81.8442934,533288
+technician,Guntur,5d84df5fe69ba158a235b8bd,Technician by ITI,Andhra Pradesh,16.2893144,80.4604643,522001
+cook,Srikakulam,5d84df7ae69ba158a235b8c3,Cook,Andhra Pradesh,18.2890868,83.9055997,532001
+cook,Visakhapatnam,5d84df7ae69ba158a235b8c3,Cook,Andhra Pradesh,17.7188461,83.3075167,500020
+cook,Vizianagaram,5d84df7ae69ba158a235b8c3,Cook,Andhra Pradesh,18.1160657,83.4029738,535001
+cook,West Godavari,5d84df7ae69ba158a235b8c3,Cook,Andhra Pradesh,16.949239,81.2628961,534426
+cook,Kadapa,5d84df7ae69ba158a235b8c3,Cook,Andhra Pradesh,14.4783475,78.821275,516001
+cook,Krishna,5d84df7ae69ba158a235b8c3,Cook,Andhra Pradesh,16.4118704,77.4013403,509352
+cook,Kurnool,5d84df7ae69ba158a235b8c3,Cook,Andhra Pradesh,15.8285829,78.0509282,518001
+cook,Prakasam,5d84df7ae69ba158a235b8c3,Cook,Andhra Pradesh,16.01666,80.2209773,523171
+cook,Anantapur,5d84df7ae69ba158a235b8c3,Cook,Andhra Pradesh,14.6941362,77.5991921,515001
+cook,Chittoor,5d84df7ae69ba158a235b8c3,Cook,Andhra Pradesh,13.217176,79.1003289,517001
+cook,East Godavari,5d84df7ae69ba158a235b8c3,Cook,Andhra Pradesh,17.4776649,81.8442934,533288
+cook,Guntur,5d84df7ae69ba158a235b8c3,Cook,Andhra Pradesh,16.2893144,80.4604643,522001
+maid,Srikakulam,5d84dfa167fa4e589c9b3880,Maid,Andhra Pradesh,18.2890868,83.9055997,532001
+maid,Visakhapatnam,5d84dfa167fa4e589c9b3880,Maid,Andhra Pradesh,17.7188461,83.3075167,500020
+maid,Vizianagaram,5d84dfa167fa4e589c9b3880,Maid,Andhra Pradesh,18.1160657,83.4029738,535001
+maid,West Godavari,5d84dfa167fa4e589c9b3880,Maid,Andhra Pradesh,16.949239,81.2628961,534426
+maid,Kadapa,5d84dfa167fa4e589c9b3880,Maid,Andhra Pradesh,14.4783475,78.821275,516001
+maid,Krishna,5d84dfa167fa4e589c9b3880,Maid,Andhra Pradesh,16.4118704,77.4013403,509352
+maid,Kurnool,5d84dfa167fa4e589c9b3880,Maid,Andhra Pradesh,15.8285829,78.0509282,518001
+maid,Prakasam,5d84dfa167fa4e589c9b3880,Maid,Andhra Pradesh,16.01666,80.2209773,523171
+maid,Anantapur,5d84dfa167fa4e589c9b3880,Maid,Andhra Pradesh,14.6941362,77.5991921,515001
+maid,Chittoor,5d84dfa167fa4e589c9b3880,Maid,Andhra Pradesh,13.217176,79.1003289,517001
+maid,East Godavari,5d84dfa167fa4e589c9b3880,Maid,Andhra Pradesh,17.4776649,81.8442934,533288
+maid,Guntur,5d84dfa167fa4e589c9b3880,Maid,Andhra Pradesh,16.2893144,80.4604643,522001
+civil engineer,Srikakulam,5d84e0c9e69ba158a235b8de,Engineer(Mechanical by Civil),Andhra Pradesh,18.2890868,83.9055997,532001
+civil engineer,Visakhapatnam,5d84e0c9e69ba158a235b8de,Engineer(Mechanical by Civil),Andhra Pradesh,17.7188461,83.3075167,500020
+civil engineer,Vizianagaram,5d84e0c9e69ba158a235b8de,Engineer(Mechanical by Civil),Andhra Pradesh,18.1160657,83.4029738,535001
+civil engineer,West Godavari,5d84e0c9e69ba158a235b8de,Engineer(Mechanical by Civil),Andhra Pradesh,16.949239,81.2628961,534426
+civil engineer,Kadapa,5d84e0c9e69ba158a235b8de,Engineer(Mechanical by Civil),Andhra Pradesh,14.4783475,78.821275,516001
+civil engineer,Krishna,5d84e0c9e69ba158a235b8de,Engineer(Mechanical by Civil),Andhra Pradesh,16.4118704,77.4013403,509352
+civil engineer,Kurnool,5d84e0c9e69ba158a235b8de,Engineer(Mechanical by Civil),Andhra Pradesh,15.8285829,78.0509282,518001
+civil engineer,Prakasam,5d84e0c9e69ba158a235b8de,Engineer(Mechanical by Civil),Andhra Pradesh,16.01666,80.2209773,523171
+civil engineer,Anantapur,5d84e0c9e69ba158a235b8de,Engineer(Mechanical by Civil),Andhra Pradesh,14.6941362,77.5991921,515001
+civil engineer,Chittoor,5d84e0c9e69ba158a235b8de,Engineer(Mechanical by Civil),Andhra Pradesh,13.217176,79.1003289,517001
+civil engineer,East Godavari,5d84e0c9e69ba158a235b8de,Engineer(Mechanical by Civil),Andhra Pradesh,17.4776649,81.8442934,533288
+civil engineer,Guntur,5d84e0c9e69ba158a235b8de,Engineer(Mechanical by Civil),Andhra Pradesh,16.2893144,80.4604643,522001
+lab assistant,Srikakulam,5d84e115e69ba158a235b8e3,Lab Assistant,Andhra Pradesh,18.2890868,83.9055997,532001
+lab assistant,Visakhapatnam,5d84e115e69ba158a235b8e3,Lab Assistant,Andhra Pradesh,17.7188461,83.3075167,500020
+lab assistant,Vizianagaram,5d84e115e69ba158a235b8e3,Lab Assistant,Andhra Pradesh,18.1160657,83.4029738,535001
+lab assistant,West Godavari,5d84e115e69ba158a235b8e3,Lab Assistant,Andhra Pradesh,16.949239,81.2628961,534426
+lab assistant,Kadapa,5d84e115e69ba158a235b8e3,Lab Assistant,Andhra Pradesh,14.4783475,78.821275,516001
+lab assistant,Krishna,5d84e115e69ba158a235b8e3,Lab Assistant,Andhra Pradesh,16.4118704,77.4013403,509352
+lab assistant,Kurnool,5d84e115e69ba158a235b8e3,Lab Assistant,Andhra Pradesh,15.8285829,78.0509282,518001
+lab assistant,Prakasam,5d84e115e69ba158a235b8e3,Lab Assistant,Andhra Pradesh,16.01666,80.2209773,523171
+lab assistant,Anantapur,5d84e115e69ba158a235b8e3,Lab Assistant,Andhra Pradesh,14.6941362,77.5991921,515001
+lab assistant,Chittoor,5d84e115e69ba158a235b8e3,Lab Assistant,Andhra Pradesh,13.217176,79.1003289,517001
+lab assistant,East Godavari,5d84e115e69ba158a235b8e3,Lab Assistant,Andhra Pradesh,17.4776649,81.8442934,533288
+lab assistant,Guntur,5d84e115e69ba158a235b8e3,Lab Assistant,Andhra Pradesh,16.2893144,80.4604643,522001
+doctors,Srikakulam,5d84e14167fa4e589c9b38a1,Medical (Doctor by Dentist byPhysician),Andhra Pradesh,18.2890868,83.9055997,532001
+doctors,Visakhapatnam,5d84e14167fa4e589c9b38a1,Medical (Doctor by Dentist byPhysician),Andhra Pradesh,17.7188461,83.3075167,500020
+doctors,Vizianagaram,5d84e14167fa4e589c9b38a1,Medical (Doctor by Dentist byPhysician),Andhra Pradesh,18.1160657,83.4029738,535001
+doctors,West Godavari,5d84e14167fa4e589c9b38a1,Medical (Doctor by Dentist byPhysician),Andhra Pradesh,16.949239,81.2628961,534426
+doctors,Kadapa,5d84e14167fa4e589c9b38a1,Medical (Doctor by Dentist byPhysician),Andhra Pradesh,14.4783475,78.821275,516001
+doctors,Krishna,5d84e14167fa4e589c9b38a1,Medical (Doctor by Dentist byPhysician),Andhra Pradesh,16.4118704,77.4013403,509352
+doctors,Kurnool,5d84e14167fa4e589c9b38a1,Medical (Doctor by Dentist byPhysician),Andhra Pradesh,15.8285829,78.0509282,518001
+doctors,Prakasam,5d84e14167fa4e589c9b38a1,Medical (Doctor by Dentist byPhysician),Andhra Pradesh,16.01666,80.2209773,523171
+doctors,Anantapur,5d84e14167fa4e589c9b38a1,Medical (Doctor by Dentist byPhysician),Andhra Pradesh,14.6941362,77.5991921,515001
+doctors,Chittoor,5d84e14167fa4e589c9b38a1,Medical (Doctor by Dentist byPhysician),Andhra Pradesh,13.217176,79.1003289,517001
+doctors,East Godavari,5d84e14167fa4e589c9b38a1,Medical (Doctor by Dentist byPhysician),Andhra Pradesh,17.4776649,81.8442934,533288
+doctors,Guntur,5d84e14167fa4e589c9b38a1,Medical (Doctor by Dentist byPhysician),Andhra Pradesh,16.2893144,80.4604643,522001
+hr Executive ,Srikakulam,5d84e1d7e69ba158a235b909,Human Resource,Andhra Pradesh,18.2890868,83.9055997,532001
+hr Executive ,Visakhapatnam,5d84e1d7e69ba158a235b909,Human Resource,Andhra Pradesh,17.7188461,83.3075167,500020
+hr Executive ,Vizianagaram,5d84e1d7e69ba158a235b909,Human Resource,Andhra Pradesh,18.1160657,83.4029738,535001
+hr Executive ,West Godavari,5d84e1d7e69ba158a235b909,Human Resource,Andhra Pradesh,16.949239,81.2628961,534426
+hr Executive ,Kadapa,5d84e1d7e69ba158a235b909,Human Resource,Andhra Pradesh,14.4783475,78.821275,516001
+hr Executive ,Krishna,5d84e1d7e69ba158a235b909,Human Resource,Andhra Pradesh,16.4118704,77.4013403,509352
+hr Executive ,Kurnool,5d84e1d7e69ba158a235b909,Human Resource,Andhra Pradesh,15.8285829,78.0509282,518001
+hr Executive ,Prakasam,5d84e1d7e69ba158a235b909,Human Resource,Andhra Pradesh,16.01666,80.2209773,523171
+hr Executive ,Anantapur,5d84e1d7e69ba158a235b909,Human Resource,Andhra Pradesh,14.6941362,77.5991921,515001
+hr Executive ,Chittoor,5d84e1d7e69ba158a235b909,Human Resource,Andhra Pradesh,13.217176,79.1003289,517001
+hr Executive ,East Godavari,5d84e1d7e69ba158a235b909,Human Resource,Andhra Pradesh,17.4776649,81.8442934,533288
+hr Executive ,Guntur,5d84e1d7e69ba158a235b909,Human Resource,Andhra Pradesh,16.2893144,80.4604643,522001
+digital marketing executive,Srikakulam,5d84e21be69ba158a235b913,Digital Marketing,Andhra Pradesh,18.2890868,83.9055997,532001
+digital marketing executive,Visakhapatnam,5d84e21be69ba158a235b913,Digital Marketing,Andhra Pradesh,17.7188461,83.3075167,500020
+digital marketing executive,Vizianagaram,5d84e21be69ba158a235b913,Digital Marketing,Andhra Pradesh,18.1160657,83.4029738,535001
+digital marketing executive,West Godavari,5d84e21be69ba158a235b913,Digital Marketing,Andhra Pradesh,16.949239,81.2628961,534426
+digital marketing executive,Kadapa,5d84e21be69ba158a235b913,Digital Marketing,Andhra Pradesh,14.4783475,78.821275,516001
+digital marketing executive,Krishna,5d84e21be69ba158a235b913,Digital Marketing,Andhra Pradesh,16.4118704,77.4013403,509352
+digital marketing executive,Kurnool,5d84e21be69ba158a235b913,Digital Marketing,Andhra Pradesh,15.8285829,78.0509282,518001
+digital marketing executive,Prakasam,5d84e21be69ba158a235b913,Digital Marketing,Andhra Pradesh,16.01666,80.2209773,523171
+digital marketing executive,Anantapur,5d84e21be69ba158a235b913,Digital Marketing,Andhra Pradesh,14.6941362,77.5991921,515001
+digital marketing executive,Chittoor,5d84e21be69ba158a235b913,Digital Marketing,Andhra Pradesh,13.217176,79.1003289,517001
+digital marketing executive,East Godavari,5d84e21be69ba158a235b913,Digital Marketing,Andhra Pradesh,17.4776649,81.8442934,533288
+digital marketing executive,Guntur,5d84e21be69ba158a235b913,Digital Marketing,Andhra Pradesh,16.2893144,80.4604643,522001
+counsellor,Srikakulam,5d84e25467fa4e589c9b39f0,Counsellor,Andhra Pradesh,18.2890868,83.9055997,532001
+counsellor,Visakhapatnam,5d84e25467fa4e589c9b39f0,Counsellor,Andhra Pradesh,17.7188461,83.3075167,500020
+counsellor,Vizianagaram,5d84e25467fa4e589c9b39f0,Counsellor,Andhra Pradesh,18.1160657,83.4029738,535001
+counsellor,West Godavari,5d84e25467fa4e589c9b39f0,Counsellor,Andhra Pradesh,16.949239,81.2628961,534426
+counsellor,Kadapa,5d84e25467fa4e589c9b39f0,Counsellor,Andhra Pradesh,14.4783475,78.821275,516001
+counsellor,Krishna,5d84e25467fa4e589c9b39f0,Counsellor,Andhra Pradesh,16.4118704,77.4013403,509352
+counsellor,Kurnool,5d84e25467fa4e589c9b39f0,Counsellor,Andhra Pradesh,15.8285829,78.0509282,518001
+counsellor,Prakasam,5d84e25467fa4e589c9b39f0,Counsellor,Andhra Pradesh,16.01666,80.2209773,523171
+counsellor,Anantapur,5d84e25467fa4e589c9b39f0,Counsellor,Andhra Pradesh,14.6941362,77.5991921,515001
+counsellor,Chittoor,5d84e25467fa4e589c9b39f0,Counsellor,Andhra Pradesh,13.217176,79.1003289,517001
+counsellor,East Godavari,5d84e25467fa4e589c9b39f0,Counsellor,Andhra Pradesh,17.4776649,81.8442934,533288
+counsellor,Guntur,5d84e25467fa4e589c9b39f0,Counsellor,Andhra Pradesh,16.2893144,80.4604643,522001
+content writer,Srikakulam,5d84e269e69ba158a235b926,Content Writing,Andhra Pradesh,18.2890868,83.9055997,532001
+content writer,Visakhapatnam,5d84e269e69ba158a235b926,Content Writing,Andhra Pradesh,17.7188461,83.3075167,500020
+content writer,Vizianagaram,5d84e269e69ba158a235b926,Content Writing,Andhra Pradesh,18.1160657,83.4029738,535001
+content writer,West Godavari,5d84e269e69ba158a235b926,Content Writing,Andhra Pradesh,16.949239,81.2628961,534426
+content writer,Kadapa,5d84e269e69ba158a235b926,Content Writing,Andhra Pradesh,14.4783475,78.821275,516001
+content writer,Krishna,5d84e269e69ba158a235b926,Content Writing,Andhra Pradesh,16.4118704,77.4013403,509352
+content writer,Kurnool,5d84e269e69ba158a235b926,Content Writing,Andhra Pradesh,15.8285829,78.0509282,518001
+content writer,Prakasam,5d84e269e69ba158a235b926,Content Writing,Andhra Pradesh,16.01666,80.2209773,523171
+content writer,Anantapur,5d84e269e69ba158a235b926,Content Writing,Andhra Pradesh,14.6941362,77.5991921,515001
+content writer,Chittoor,5d84e269e69ba158a235b926,Content Writing,Andhra Pradesh,13.217176,79.1003289,517001
+content writer,East Godavari,5d84e269e69ba158a235b926,Content Writing,Andhra Pradesh,17.4776649,81.8442934,533288
+content writer,Guntur,5d84e269e69ba158a235b926,Content Writing,Andhra Pradesh,16.2893144,80.4604643,522001
+nurse,Srikakulam,5d84dff5e69ba158a235b8cf,Hotel Waiter,Andhra Pradesh,18.2890868,83.9055997,532001
+nurse,Visakhapatnam,5d84dff5e69ba158a235b8cf,Hotel Waiter,Andhra Pradesh,17.7188461,83.3075167,500020
+nurse,Vizianagaram,5d84dff5e69ba158a235b8cf,Hotel Waiter,Andhra Pradesh,18.1160657,83.4029738,535001
+nurse,West Godavari,5d84dff5e69ba158a235b8cf,Hotel Waiter,Andhra Pradesh,16.949239,81.2628961,534426
+nurse,Kadapa,5d84dff5e69ba158a235b8cf,Hotel Waiter,Andhra Pradesh,14.4783475,78.821275,516001
+nurse,Krishna,5d84dff5e69ba158a235b8cf,Hotel Waiter,Andhra Pradesh,16.4118704,77.4013403,509352
+nurse,Kurnool,5d84dff5e69ba158a235b8cf,Hotel Waiter,Andhra Pradesh,15.8285829,78.0509282,518001
+nurse,Prakasam,5d84dff5e69ba158a235b8cf,Hotel Waiter,Andhra Pradesh,16.01666,80.2209773,523171
+nurse,Anantapur,5d84dff5e69ba158a235b8cf,Hotel Waiter,Andhra Pradesh,14.6941362,77.5991921,515001
+nurse,Chittoor,5d84dff5e69ba158a235b8cf,Hotel Waiter,Andhra Pradesh,13.217176,79.1003289,517001
+nurse,East Godavari,5d84dff5e69ba158a235b8cf,Hotel Waiter,Andhra Pradesh,17.4776649,81.8442934,533288
+nurse,Guntur,5d84dff5e69ba158a235b8cf,Hotel Waiter,Andhra Pradesh,16.2893144,80.4604643,522001
+care taker,Srikakulam,5d84dff5e69ba158a235b8cf,Hotel Waiter,Andhra Pradesh,18.2890868,83.9055997,532001
+care taker,Visakhapatnam,5d84dff5e69ba158a235b8cf,Hotel Waiter,Andhra Pradesh,17.7188461,83.3075167,500020
+care taker,Vizianagaram,5d84dff5e69ba158a235b8cf,Hotel Waiter,Andhra Pradesh,18.1160657,83.4029738,535001
+care taker,West Godavari,5d84dff5e69ba158a235b8cf,Hotel Waiter,Andhra Pradesh,16.949239,81.2628961,534426
+care taker,Kadapa,5d84dff5e69ba158a235b8cf,Hotel Waiter,Andhra Pradesh,14.4783475,78.821275,516001
+care taker,Krishna,5d84dff5e69ba158a235b8cf,Hotel Waiter,Andhra Pradesh,16.4118704,77.4013403,509352
+care taker,Kurnool,5d84dff5e69ba158a235b8cf,Hotel Waiter,Andhra Pradesh,15.8285829,78.0509282,518001
+care taker,Prakasam,5d84dff5e69ba158a235b8cf,Hotel Waiter,Andhra Pradesh,16.01666,80.2209773,523171
+care taker,Anantapur,5d84dff5e69ba158a235b8cf,Hotel Waiter,Andhra Pradesh,14.6941362,77.5991921,515001
+care taker,Chittoor,5d84dff5e69ba158a235b8cf,Hotel Waiter,Andhra Pradesh,13.217176,79.1003289,517001
+care taker,East Godavari,5d84dff5e69ba158a235b8cf,Hotel Waiter,Andhra Pradesh,17.4776649,81.8442934,533288
+care taker,Guntur,5d84ddf2e69ba158a235b899,Delivery,Andhra Pradesh,16.2893144,80.4604643,522001
+delivery boys,Srikakulam,5d84ddf2e69ba158a235b899,Delivery,Andhra Pradesh,18.2890868,83.9055997,532001
+delivery boys,Visakhapatnam,5d84ddf2e69ba158a235b899,Delivery,Andhra Pradesh,17.7188461,83.3075167,500020
+delivery boys,Vizianagaram,5d84ddf2e69ba158a235b899,Delivery,Andhra Pradesh,18.1160657,83.4029738,535001
+delivery boys,West Godavari,5d84ddf2e69ba158a235b899,Delivery,Andhra Pradesh,16.949239,81.2628961,534426
+delivery boys,Kadapa,5d84ddf2e69ba158a235b899,Delivery,Andhra Pradesh,14.4783475,78.821275,516001
+delivery boys,Krishna,5d84ddf2e69ba158a235b899,Delivery,Andhra Pradesh,16.4118704,77.4013403,509352
+delivery boys,Kurnool,5d84ddf2e69ba158a235b899,Delivery,Andhra Pradesh,15.8285829,78.0509282,518001
+delivery boys,Prakasam,5d84ddf2e69ba158a235b899,Delivery,Andhra Pradesh,16.01666,80.2209773,523171
+delivery boys,Anantapur,5d84ddf2e69ba158a235b899,Delivery,Andhra Pradesh,14.6941362,77.5991921,515001
+delivery boys,Chittoor,5d84ddf2e69ba158a235b899,Delivery,Andhra Pradesh,13.217176,79.1003289,517001
+delivery boys,East Godavari,5d84ddf2e69ba158a235b899,Delivery,Andhra Pradesh,17.4776649,81.8442934,533288
+delivery boys,Guntur,5d84ddf2e69ba158a235b899,Delivery,Andhra Pradesh,16.2893144,80.4604643,522001
